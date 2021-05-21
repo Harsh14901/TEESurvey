@@ -1,0 +1,76 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Cloud and Edge Computing}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Preliminary Study of Trusted Execution Environments on Heterogeneous Edge Platforms }{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{VC3: Trustworthy Data Analytics in the Cloud using SGX }{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Shielding Applications from an Untrusted Cloud with Haven }{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Running ZooKeeper Coordination Services in Untrusted Clouds }{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{A Cloud based Dual-Root Trust Model for Secure Mobile Online Transactions }{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.6}{Practical Privacy Preserving Cloud Resource-Payment for Constrained Clients}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.7}{DFCloud : A TPM-based Secure Data Access Control Method of Cloud Storage in Mobile Devices }{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.8}{ARM TrustZone for Secure Image Processing on the Cloud }{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.9}{TrApps: Secure Compartments in the Evil Cloud }{section.2}% 11
+\BOOKMARK [1][-]{section.3}{Hypervisor and Virtualization}{}% 12
+\BOOKMARK [2][-]{subsection.3.1}{Towards a TrustZone-assisted Hypervisor for Real Time Embedded Systems}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.2}{T-KVM: A Trusted architecture for KVM ARM v7 and v8 Virtual Machines Securing Virtual Machines by means of KVM, TrustZone, TEE and SELinux}{section.3}% 14
+\BOOKMARK [2][-]{subsection.3.3}{\265RTZVisor: A Secure and Safe Real-Time Hypervisor}{section.3}% 15
+\BOOKMARK [2][-]{subsection.3.4}{LTZVisor: TrustZone is the Key}{section.3}% 16
+\BOOKMARK [2][-]{subsection.3.5}{Reconciling Security with Virtualization: A Dual-Hypervisor Design for ARM TrustZone}{section.3}% 17
+\BOOKMARK [2][-]{subsection.3.6}{Asymmetric Virtualisation for Real-Time Systems}{section.3}% 18
+\BOOKMARK [2][-]{subsection.3.7}{vTZ: Virtualizing ARM TrustZone}{section.3}% 19
+\BOOKMARK [2][-]{subsection.3.8}{Lightweight Multicore Virtualization Architecture exploiting ARM TrustZone}{section.3}% 20
+\BOOKMARK [2][-]{subsection.3.9}{Towards a lightweight embedded virtualization architecture exploiting ARM TrustZone.}{section.3}% 21
+\BOOKMARK [2][-]{subsection.3.10}{VOSYSmonitor, a Low Latency Monitor Layer for Mixed-Criticality Systems on ARMv8-A}{section.3}% 22
+\BOOKMARK [2][-]{subsection.3.11}{Dual Operating System Architecture for Real-Time Embedded Systems}{section.3}% 23
+\BOOKMARK [2][-]{subsection.3.12}{Dual-OS Infrastructure for Mixed-Criticality Systems on ARMv8 Platforms}{section.3}% 24
+\BOOKMARK [2][-]{subsection.3.13}{Affordable Separation on Embedded Platforms}{section.3}% 25
+\BOOKMARK [2][-]{subsection.3.14}{SPACE AND TIME PARTITIONING WITH HARDWARE SUPPORT FOR SPACE APPLICATIONS}{section.3}% 26
+\BOOKMARK [1][-]{section.4}{OS and Kernel security}{}% 27
+\BOOKMARK [2][-]{subsection.4.1}{Hypervision Across Worlds: Real-time Kernel Protection from the ARM TrustZone Secure World}{section.4}% 28
+\BOOKMARK [2][-]{subsection.4.2}{SPROBES: Enforcing Kernel Code Integrity on the TrustZone Architecture}{section.4}% 29
+\BOOKMARK [2][-]{subsection.4.3}{On-board Credentials with Open Provisioning}{section.4}% 30
+\BOOKMARK [2][-]{subsection.4.4}{The ANDIX Research OS - ARM TrustZone Meets Industrial Control Systems Security}{section.4}% 31
+\BOOKMARK [1][-]{section.5}{Mobile system security}{}% 32
+\BOOKMARK [2][-]{subsection.5.1}{TrustICE: Hardware-assisted Isolated Computing Environments on Mobile Devices}{section.5}% 33
+\BOOKMARK [2][-]{subsection.5.2}{Enhancing the Security of Mobile Applications by using TEE and \(U\)SIM}{section.5}% 34
+\BOOKMARK [2][-]{subsection.5.3}{Building Trusted Path on Untrusted Device Drivers for Mobile Devices}{section.5}% 35
+\BOOKMARK [2][-]{subsection.5.4}{Trustworthy Execution on Mobile Devices: What security properties can my mobile platform give me?}{section.5}% 36
+\BOOKMARK [2][-]{subsection.5.5}{The Untapped Potential of Trusted Execution Environments on Mobile Devices}{section.5}% 37
+\BOOKMARK [2][-]{subsection.5.6}{Using ARM TrustZone to Build a Trusted Language Runtime for Mobile Applications}{section.5}% 38
+\BOOKMARK [2][-]{subsection.5.7}{Inspecting data from the safety of your trusted execution environment.}{section.5}% 39
+\BOOKMARK [2][-]{subsection.5.8}{Regulating ARM TrustZone Devices in Restricted Spaces}{section.5}% 40
+\BOOKMARK [2][-]{subsection.5.9}{Retrofitting the Partially Privileged Mode for TEE Communication Channel Protection}{section.5}% 41
+\BOOKMARK [1][-]{section.6}{IoT/embedded system security}{}% 42
+\BOOKMARK [2][-]{subsection.6.1}{Software Abstractions for Trusted Sensors}{section.6}% 43
+\BOOKMARK [2][-]{subsection.6.2}{Trusted Computing Building Blocks for Embedded Linux-based ARM TrustZone Platforms}{section.6}% 44
+\BOOKMARK [2][-]{subsection.6.3}{Secure device access for automotive software}{section.6}% 45
+\BOOKMARK [2][-]{subsection.6.4}{PROTC: PROTeCting drone\220s peripherals through ARM TrustZone}{section.6}% 46
+\BOOKMARK [2][-]{subsection.6.5}{FreeTEE: When real-time and security meet}{section.6}% 47
+\BOOKMARK [2][-]{subsection.6.6}{Experimenting with ARM TrustZone Or: How I met friendly piece of trusted hardware}{section.6}% 48
+\BOOKMARK [2][-]{subsection.6.7}{A Private User Data Protection Mechanism in TrustZone Architecture Based on Identity Authentication}{section.6}% 49
+\BOOKMARK [2][-]{subsection.6.8}{IIoTEED: An Enhanced, Trusted Execution Environment for Industrial IoT Edge Devices}{section.6}% 50
+\BOOKMARK [2][-]{subsection.6.9}{MIPE: a practical memory integrity protection method in a trusted execution environment}{section.6}% 51
+\BOOKMARK [2][-]{subsection.6.10}{CFI CaRE: Hardware-Supported Call and Return Enforcement for Commercial Microcontrollers}{section.6}% 52
+\BOOKMARK [2][-]{subsection.6.11}{Providing Root of Trust for ARM TrustZone using On-Chip SRAM}{section.6}% 53
+\BOOKMARK [1][-]{section.7}{Trusted services}{}% 54
+\BOOKMARK [2][-]{subsection.7.1}{TrustOTP: Transforming Smartphones into Secure One-Time Password Tokens}{section.7}% 55
+\BOOKMARK [2][-]{subsection.7.2}{TrustDump: Reliable Memory Acquisition on Smartphones}{section.7}% 56
+\BOOKMARK [2][-]{subsection.7.3}{E-Pass Using DRM in Symbian v8 OS and TrustZone : Securing Vital Data on Mobile Devices}{section.7}% 57
+\BOOKMARK [2][-]{subsection.7.4}{A Path Towards Ubiquitous Protection of Media}{section.7}% 58
+\BOOKMARK [2][-]{subsection.7.5}{Using Innovative Instructions to Create Trustworthy Software Solutions}{section.7}% 59
+\BOOKMARK [3][-]{subsubsection.7.5.1}{One-time Password \(OTP\)}{subsection.7.5}% 60
+\BOOKMARK [3][-]{subsubsection.7.5.2}{Enterprise Rights Management}{subsection.7.5}% 61
+\BOOKMARK [3][-]{subsubsection.7.5.3}{Video Conferencing}{subsection.7.5}% 62
+\BOOKMARK [2][-]{subsection.7.6}{Trusted Execution Environment-Based Authentication Gauge \(TEEBAG\)}{section.7}% 63
+\BOOKMARK [2][-]{subsection.7.7}{Secure Block Device - Secure, Flexible, and Efficient Data Storage for ARM TrustZone Systems}{section.7}% 64
+\BOOKMARK [2][-]{subsection.7.8}{Secure Block Device - Secure, Flexible, and Efficient Data Storage for ARM TrustZone Systems}{section.7}% 65
+\BOOKMARK [1][-]{section.8}{Miscellanous}{}% 66
+\BOOKMARK [2][-]{subsection.8.1}{Ninja: Towards Transparent Tracing and Debugging on ARM}{section.8}% 67
+\BOOKMARK [2][-]{subsection.8.2}{A First Step Towards Leveraging Commodity Trusted Execution Environments for Network Applications}{section.8}% 68
+\BOOKMARK [2][-]{subsection.8.3}{Mobile Ticketing System Employing TrustZone Technology}{section.8}% 69
+\BOOKMARK [2][-]{subsection.8.4}{Identity Verification Schemes for Public Transport Ticketing with NFC Phones}{section.8}% 70
+\BOOKMARK [2][-]{subsection.8.5}{A Framework for Privacy-Preserving Mobile Payment on Security Enhanced ARM TrustZone Platforms}{section.8}% 71
+\BOOKMARK [2][-]{subsection.8.6}{Using Trusted Execution Environments in Two-factor Authentication: comparing approaches}{section.8}% 72
+\BOOKMARK [2][-]{subsection.8.7}{Smartphones as Practical and Secure Location Verification Tokens for Payments}{section.8}% 73
+\BOOKMARK [2][-]{subsection.8.8}{AdAttester: Secure online mobile advertisement attestation using TrustZone.}{section.8}% 74
+\BOOKMARK [2][-]{subsection.8.9}{SeCReT: Secure Channel between Rich Execution Environment and Trusted Execution Environment}{section.8}% 75
+\BOOKMARK [1][-]{section*.1}{References}{}% 76

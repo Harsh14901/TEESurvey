@@ -1,0 +1,77 @@
+\begin{thebibliography}{1}
+
+\bibitem{cloud3}
+Andrew Baumann, Marcus Peinado, and Galen Hunt.
+\newblock Shielding applications from an untrusted cloud with haven.
+\newblock {\em {ACM} Transactions on Computer Systems}, 33(3):1--26, September
+  2015.
+\newblock \href {https://doi.org/10.1145/2799647} {\path{doi:10.1145/2799647}}.
+
+\bibitem{cloud9}
+Stefan Brenner, David Goltzsche, and R\"{u}diger Kapitza.
+\newblock Trapps: Secure compartments in the evil cloud.
+\newblock In {\em Proceedings of the 1st International Workshop on Security and
+  Dependability of Multi-Domain Infrastructures}, XDOMO'17, New York, NY, USA,
+  2017. Association for Computing Machinery.
+\newblock \href {https://doi.org/10.1145/3071064.3071069}
+  {\path{doi:10.1145/3071064.3071069}}.
+
+\bibitem{cloud4}
+Stefan Brenner, Colin Wulf, and R\"{u}diger Kapitza.
+\newblock Running zookeeper coordination services in untrusted clouds.
+\newblock In {\em Proceedings of the 10th USENIX Conference on Hot Topics in
+  System Dependability}, HotDep'14, page~2, USA, 2014. USENIX Association.
+
+\bibitem{cloud8}
+Tiago Brito, Nuno~O. Duarte, and Nuno Santos.
+\newblock Arm trustzone for secure image processing on the cloud.
+\newblock In {\em 2016 IEEE 35th Symposium on Reliable Distributed Systems
+  Workshops (SRDSW)}, pages 37--42, 2016.
+\newblock \href {https://doi.org/10.1109/SRDSW.2016.17}
+  {\path{doi:10.1109/SRDSW.2016.17}}.
+
+\bibitem{cloud5}
+Li~Li, Dijiang Huang, Zhidong Shen, and Samia Bouzefrane.
+\newblock A cloud based dual-root trust model for secure mobile online
+  transactions.
+\newblock In {\em 2013 IEEE Wireless Communications and Networking Conference
+  (WCNC)}, pages 4404--4409, 2013.
+\newblock \href {https://doi.org/10.1109/WCNC.2013.6555287}
+  {\path{doi:10.1109/WCNC.2013.6555287}}.
+
+\bibitem{cloud1}
+Zhenyu Ning, Jinghui Liao, Fengwei Zhang, and Weisong Shi.
+\newblock Preliminary study of trusted execution environments on heterogeneous
+  edge platforms.
+\newblock In {\em 2018 {IEEE}/{ACM} Symposium on Edge Computing ({SEC})}.
+  {IEEE}, October 2018.
+\newblock \href {https://doi.org/10.1109/sec.2018.00057}
+  {\path{doi:10.1109/sec.2018.00057}}.
+
+\bibitem{cloud6}
+Martin Pirker, Daniel Slamanig, and Johannes Winter.
+\newblock Practical privacy preserving cloud resource-payment for constrained
+  clients.
+\newblock In {\em Privacy Enhancing Technologies}, pages 201--220. Springer
+  Berlin Heidelberg, 2012.
+\newblock \href {https://doi.org/10.1007/978-3-642-31680-7_11}
+  {\path{doi:10.1007/978-3-642-31680-7_11}}.
+
+\bibitem{cloud2}
+Felix Schuster, Manuel Costa, Cedric Fournet, Christos Gkantsidis, Marcus
+  Peinado, Gloria Mainar-Ruiz, and Mark Russinovich.
+\newblock {\em {VC}3: Trustworthy Data Analytics in the Cloud Using {SGX}}.
+\newblock {IEEE}, May 2015.
+\newblock \href {https://doi.org/10.1109/sp.2015.10}
+  {\path{doi:10.1109/sp.2015.10}}.
+
+\bibitem{cloud7}
+Jaebok Shin, Yungu Kim, Wooram Park, and Chanik Park.
+\newblock {DFCloud}: A {TPM}-based secure data access control method of cloud
+  storage in mobile devices.
+\newblock In {\em 4th {IEEE} International Conference on Cloud Computing
+  Technology and Science Proceedings}. {IEEE}, December 2012.
+\newblock \href {https://doi.org/10.1109/cloudcom.2012.6427606}
+  {\path{doi:10.1109/cloudcom.2012.6427606}}.
+
+\end{thebibliography}
