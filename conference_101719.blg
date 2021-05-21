@@ -8,44 +8,54 @@ Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: citations.bib
-You've used 9 entries,
+Warning--empty year in misc3
+Warning--empty booktitle in misc9
+Warning--empty year in hyper11
+Warning--empty booktitle in hyper3
+Warning--can't use both volume and number fields in hyper3
+Warning--empty booktitle in hyper2
+Warning--empty booktitle in hyper14
+Warning--empty booktitle in misc6
+Warning--empty booktitle in mobile4
+You've used 70 entries,
             2882 wiz_defined-function locations,
-            693 strings with 7514 characters,
-and the built_in function-call counts, 4911 in all, are:
-= -- 513
-> -- 207
-< -- 4
-+ -- 78
-- -- 68
-* -- 309
-:= -- 709
-add.period$ -- 40
-call.type$ -- 9
-change.case$ -- 60
+            1094 strings with 23321 characters,
+and the built_in function-call counts, 37108 in all, are:
+= -- 3857
+> -- 1712
+< -- 21
++ -- 647
+- -- 569
+* -- 2394
+:= -- 5285
+add.period$ -- 314
+call.type$ -- 70
+change.case$ -- 492
 chr.to.int$ -- 0
-cite$ -- 9
-duplicate$ -- 152
-empty$ -- 439
-format.name$ -- 68
-if$ -- 1259
+cite$ -- 79
+duplicate$ -- 1101
+empty$ -- 3272
+format.name$ -- 569
+if$ -- 9459
 int.to.chr$ -- 0
-int.to.str$ -- 9
-missing$ -- 10
-newline$ -- 56
-num.names$ -- 18
-pop$ -- 111
+int.to.str$ -- 70
+missing$ -- 71
+newline$ -- 413
+num.names$ -- 142
+pop$ -- 878
 preamble$ -- 1
-purify$ -- 52
+purify$ -- 424
 quote$ -- 0
-skip$ -- 321
+skip$ -- 2392
 stack$ -- 0
-substring$ -- 152
-swap$ -- 59
-text.length$ -- 4
+substring$ -- 996
+swap$ -- 394
+text.length$ -- 21
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 34
-warning$ -- 0
-while$ -- 28
-width$ -- 10
-write$ -- 122
+type$ -- 276
+warning$ -- 9
+while$ -- 195
+width$ -- 72
+write$ -- 913
+(There were 9 warnings)

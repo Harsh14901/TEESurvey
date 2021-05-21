@@ -1,4 +1,50 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
+
+\bibitem{mobile2}
+Zaheer Ahmad, Lishoy Francis, Tansir Ahmed, Christopher Lobodzinski, Dev
+  Audsin, and Peng Jiang.
+\newblock Enhancing the security of mobile applications by using {TEE} and
+  (u){SIM}.
+\newblock In {\em 2013 {IEEE} 10th International Conference on Ubiquitous
+  Intelligence and Computing and 2013 {IEEE} 10th International Conference on
+  Autonomic and Trusted Computing}. {IEEE}, December 2013.
+\newblock \href {https://doi.org/10.1109/uic-atc.2013.76}
+  {\path{doi:10.1109/uic-atc.2013.76}}.
+
+\bibitem{survey3}
+N.~Asokan, Jan-Erik Ekberg, Kari Kostiainen, Anand Rajan, Carlos Rozas,
+  Ahmad-Reza Sadeghi, Steffen Schulz, and Christian Wachsmann.
+\newblock Mobile trusted computing.
+\newblock {\em Proceedings of the {IEEE}}, 102(8):1189--1206, August 2014.
+\newblock \href {https://doi.org/10.1109/jproc.2014.2332007}
+  {\path{doi:10.1109/jproc.2014.2332007}}.
+
+\bibitem{survey5}
+N.~Asokan, Jan-Erik Ekberg, Kari Kostiainen, Anand Rajan, Carlos Rozas,
+  Ahmad-Reza Sadeghi, Steffen Schulz, and Christian Wachsmann.
+\newblock Mobile trusted computing.
+\newblock {\em Proceedings of the IEEE}, 102(8):1189--1206, 2014.
+\newblock \href {https://doi.org/10.1109/JPROC.2014.2332007}
+  {\path{doi:10.1109/JPROC.2014.2332007}}.
+
+\bibitem{os1}
+Ahmed~M. Azab, Peng Ning, Jitesh Shah, Quan Chen, Rohan Bhutkar, Guruprasad
+  Ganesh, Jia Ma, and Wenbo Shen.
+\newblock Hypervision across worlds: Real-time kernel protection from the arm
+  trustzone secure world.
+\newblock In {\em Proceedings of the 2014 ACM SIGSAC Conference on Computer and
+  Communications Security}, CCS '14, page 90–102, New York, NY, USA, 2014.
+  Association for Computing Machinery.
+\newblock \href {https://doi.org/10.1145/2660267.2660350}
+  {\path{doi:10.1145/2660267.2660350}}.
+
+\bibitem{trust8}
+Ranjbar~A. Balisane and Andrew Martin.
+\newblock Trusted execution environment-based authentication gauge ({TEEBAG}).
+\newblock In {\em Proceedings of the 2016 New Security Paradigms Workshop}.
+  {ACM}, September 2016.
+\newblock \href {https://doi.org/10.1145/3011883.3011892}
+  {\path{doi:10.1145/3011883.3011892}}.
 
 \bibitem{cloud3}
 Andrew Baumann, Marcus Peinado, and Galen Hunt.
@@ -6,6 +52,15 @@ Andrew Baumann, Marcus Peinado, and Galen Hunt.
 \newblock {\em {ACM} Transactions on Computer Systems}, 33(3):1--26, September
   2015.
 \newblock \href {https://doi.org/10.1145/2799647} {\path{doi:10.1145/2799647}}.
+
+\bibitem{mobile8}
+Ferdinand Brasser, Daeyoung Kim, Christopher Liebchen, Vinod Ganapathy, Liviu
+  Iftode, and Ahmad-Reza Sadeghi.
+\newblock Regulating {ARM} {TrustZone} devices in restricted spaces.
+\newblock In {\em Proceedings of the 14th Annual International Conference on
+  Mobile Systems, Applications, and Services}. {ACM}, June 2016.
+\newblock \href {https://doi.org/10.1145/2906388.2906390}
+  {\path{doi:10.1145/2906388.2906390}}.
 
 \bibitem{cloud9}
 Stefan Brenner, David Goltzsche, and R\"{u}diger Kapitza.
@@ -30,6 +85,158 @@ Tiago Brito, Nuno~O. Duarte, and Nuno Santos.
 \newblock \href {https://doi.org/10.1109/SRDSW.2016.17}
   {\path{doi:10.1109/SRDSW.2016.17}}.
 
+\bibitem{hyper6}
+Marco Cereia and Ivan~Cibrario Bertolotti.
+\newblock Asymmetric virtualisation for real-time systems.
+\newblock In {\em 2008 {IEEE} International Symposium on Industrial
+  Electronics}. {IEEE}, June 2008.
+\newblock \href {https://doi.org/10.1109/isie.2008.4677005}
+  {\path{doi:10.1109/isie.2008.4677005}}.
+
+\bibitem{emb9}
+Rui Chang, Liehui Jiang, Wenzhi Chen, Yang Xiang, Yuxia Cheng, and Abdulhameed
+  Alelaiwi.
+\newblock {MIPE}: a practical memory integrity protection method in a trusted
+  execution environment.
+\newblock {\em Cluster Computing}, 20(2):1075--1087, March 2017.
+\newblock \href {https://doi.org/10.1007/s10586-017-0833-4}
+  {\path{doi:10.1007/s10586-017-0833-4}}.
+
+\bibitem{hyper5}
+Giorgiomaria Cicero, Alessandro Biondi, Giorgio Buttazzo, and Anup Patel.
+\newblock Reconciling security with virtualization: A dual-hypervisor design
+  for {ARM} {TrustZone}.
+\newblock In {\em 2018 {IEEE} International Conference on Industrial Technology
+  ({ICIT})}. {IEEE}, February 2018.
+\newblock \href {https://doi.org/10.1109/icit.2018.8352425}
+  {\path{doi:10.1109/icit.2018.8352425}}.
+
+\bibitem{mobile5}
+Jan-Erik Ekberg, Kari Kostiainen, and N.~Asokan.
+\newblock The untapped potential of trusted execution environments on mobile
+  devices.
+\newblock {\em IEEE Security Privacy}, 12(4):29--37, 2014.
+\newblock \href {https://doi.org/10.1109/MSP.2014.38}
+  {\path{doi:10.1109/MSP.2014.38}}.
+
+\bibitem{os4}
+Andreas Fitzek, Florian Achleitner, Johannes Winter, and Daniel Hein.
+\newblock The {ANDIX} research {OS} - {ARM} {TrustZone} meets industrial
+  control systems security.
+\newblock In {\em 2015 {IEEE} 13th International Conference on Industrial
+  Informatics ({INDIN})}. {IEEE}, July 2015.
+\newblock \href {https://doi.org/10.1109/indin.2015.7281715}
+  {\path{doi:10.1109/indin.2015.7281715}}.
+
+\bibitem{os2}
+Xinyang Ge, Hayawardh Vijayakumar, and Trent Jaeger.
+\newblock Sprobes: Enforcing kernel code integrity on the trustzone
+  architecture, 2014.
+\newblock \href {http://arxiv.org/abs/1410.7747} {\path{arXiv:1410.7747}}.
+
+\bibitem{tee}
+GlobalPlatform.
+\newblock {\em TEE system architecture}.
+\newblock [Online], 2011.
+\newblock URL: \url{http://globalplatform.org/specificationsdevice.asp}.
+
+\bibitem{trust9}
+Daniel Hein, Johannes Winter, and Andreas Fitzek.
+\newblock Secure block device -- secure, flexible, and efficient data storage
+  for {ARM} {TrustZone} systems.
+\newblock In {\em 2015 {IEEE} Trustcom/{BigDataSE}/{ISPA}}. {IEEE}, August
+  2015.
+\newblock \href {https://doi.org/10.1109/trustcom.2015.378}
+  {\path{doi:10.1109/trustcom.2015.378}}.
+
+\bibitem{trust5-7}
+Matthew Hoekstra, Reshma Lal, Pradeep Pappachan, Vinay Phegade, and Juan
+  Del~Cuvillo.
+\newblock Using innovative instructions to create trustworthy software
+  solutions.
+\newblock In {\em Proceedings of the 2nd International Workshop on Hardware and
+  Architectural Support for Security and Privacy}, HASP '13, New York, NY, USA,
+  2013. Association for Computing Machinery.
+\newblock \href {https://doi.org/10.1145/2487726.2488370}
+  {\path{doi:10.1145/2487726.2488370}}.
+
+\bibitem{hyper7}
+Zhichao Hua, Jinyu Gu, Yubin Xia, Haibo Chen, Binyu Zang, and Haibing Guan.
+\newblock Vtz: Virtualizing arm trustzone.
+\newblock In {\em Proceedings of the 26th USENIX Conference on Security
+  Symposium}, SEC'17, page 541–556, USA, 2017. USENIX Association.
+
+\bibitem{trust3}
+Wan Huzaini~Wan Hussin.
+\newblock E-pass using {DRM} in symbian v8 {OS} and {TrustZone} : Securing
+  vital data on mobile devices.
+\newblock In {\em 2006 International Conference on Mobile Business}. {IEEE},
+  December 2006.
+\newblock \href {https://doi.org/10.1109/icmb.2006.14}
+  {\path{doi:10.1109/icmb.2006.14}}.
+
+\bibitem{misc3}
+Wan Huzaini, Wan Hussin, P.~Coulton, and R.~Edwards.
+\newblock Mobile ticketing system employing {TrustZone} technology.
+\newblock In {\em International Conference on Mobile Business
+  ({ICMB}{\textquotesingle}05)}. {IEEE}.
+\newblock \href {https://doi.org/10.1109/icmb.2005.71}
+  {\path{doi:10.1109/icmb.2005.71}}.
+
+\bibitem{mobile9}
+Jinsoo Jang and Brent~Byunghoon Kang.
+\newblock Retrofitting the partially privileged mode for {TEE} communication
+  channel protection.
+\newblock {\em {IEEE} Transactions on Dependable and Secure Computing},
+  17(5):1000--1014, September 2020.
+\newblock \href {https://doi.org/10.1109/tdsc.2018.2840709}
+  {\path{doi:10.1109/tdsc.2018.2840709}}.
+
+\bibitem{misc9}
+Jinsoo Jang, Sunjune Kong, Minsu Kim, Daegyeong Kim, and Brent Kang.
+\newblock Secret: Secure channel between rich execution environment and trusted
+  execution environment.
+\newblock 01 2015.
+\newblock \href {https://doi.org/10.14722/ndss.2015.23189}
+  {\path{doi:10.14722/ndss.2015.23189}}.
+
+\bibitem{emb3}
+Se~Won Kim, Chiyoung Lee, MooWoong Jeon, Hae~Young Kwon, Hyun~Woo Lee, and
+  Chuck Yoo.
+\newblock Secure device access for automotive software.
+\newblock In {\em 2013 International Conference on Connected Vehicles and Expo
+  ({ICCVE})}. {IEEE}, December 2013.
+\newblock \href {https://doi.org/10.1109/iccve.2013.6799789}
+  {\path{doi:10.1109/iccve.2013.6799789}}.
+
+\bibitem{misc2}
+Seongmin Kim, Youjung Shin, Jaehyung Ha, Taesoo Kim, and Dongsu Han.
+\newblock A first step towards leveraging commodity trusted execution
+  environments for network applications.
+\newblock In {\em Proceedings of the 14th ACM Workshop on Hot Topics in
+  Networks}, HotNets-XIV, New York, NY, USA, 2015. Association for Computing
+  Machinery.
+\newblock \href {https://doi.org/10.1145/2834050.2834100}
+  {\path{doi:10.1145/2834050.2834100}}.
+
+\bibitem{hyper11}
+Florian Kluge, J\"{o}rg Mische, Sascha Uhrig, and Theo Ungerer.
+\newblock An operating system architecture for organic computing in embedded
+  real-time systems.
+\newblock In {\em Lecture Notes in Computer Science}, pages 343--357. Springer
+  Berlin Heidelberg.
+\newblock \href {https://doi.org/10.1007/978-3-540-69295-9_28}
+  {\path{doi:10.1007/978-3-540-69295-9_28}}.
+
+\bibitem{os3}
+Kari Kostiainen, Jan-Erik Ekberg, N.~Asokan, and Aarne Rantala.
+\newblock On-board credentials with open provisioning.
+\newblock In {\em Proceedings of the 4th International Symposium on
+  Information, Computer, and Communications Security - {ASIACCS}
+  {\textquotesingle}09}. {ACM} Press, 2009.
+\newblock \href {https://doi.org/10.1145/1533057.1533074}
+  {\path{doi:10.1145/1533057.1533074}}.
+
 \bibitem{cloud5}
 Li~Li, Dijiang Huang, Zhidong Shen, and Samia Bouzefrane.
 \newblock A cloud based dual-root trust model for secure mobile online
@@ -38,6 +245,74 @@ Li~Li, Dijiang Huang, Zhidong Shen, and Samia Bouzefrane.
   (WCNC)}, pages 4404--4409, 2013.
 \newblock \href {https://doi.org/10.1109/WCNC.2013.6555287}
   {\path{doi:10.1109/WCNC.2013.6555287}}.
+
+\bibitem{misc8}
+Wenhao Li, Haibo Li, Haibo Chen, and Yubin Xia.
+\newblock {AdAttester}.
+\newblock In {\em Proceedings of the 13th Annual International Conference on
+  Mobile Systems, Applications, and Services}. {ACM}, May 2015.
+\newblock \href {https://doi.org/10.1145/2742647.2742676}
+  {\path{doi:10.1145/2742647.2742676}}.
+
+\bibitem{mobile3}
+Wenhao Li, Mingyang Ma, Jinchen Han, Yubin Xia, Binyu Zang, Cheng-Kang Chu, and
+  Tieyan Li.
+\newblock Building trusted path on untrusted device drivers for mobile devices.
+\newblock In {\em Proceedings of 5th Asia-Pacific Workshop on Systems}, APSys
+  '14, New York, NY, USA, 2014. Association for Computing Machinery.
+\newblock \href {https://doi.org/10.1145/2637166.2637225}
+  {\path{doi:10.1145/2637166.2637225}}.
+
+\bibitem{trust10}
+Xiaolei Li, Hong Hu, Guangdong Bai, Yaoqi Jia, Zhenkai Liang, and Prateek
+  Saxena.
+\newblock {DroidVault}: A trusted data vault for android devices.
+\newblock In {\em 2014 19th International Conference on Engineering of Complex
+  Computer Systems}. {IEEE}, August 2014.
+\newblock \href {https://doi.org/10.1109/iceccs.2014.13}
+  {\path{doi:10.1109/iceccs.2014.13}}.
+
+\bibitem{emb1}
+He~Liu, Stefan Saroiu, Alec Wolman, and Himanshu Raj.
+\newblock Software abstractions for trusted sensors.
+\newblock In {\em Proceedings of the 10th international conference on Mobile
+  systems, applications, and services - {MobiSys} {\textquotesingle}12}. {ACM}
+  Press, 2012.
+\newblock \href {https://doi.org/10.1145/2307636.2307670}
+  {\path{doi:10.1145/2307636.2307670}}.
+
+\bibitem{emb4}
+Renju Liu and Mani Srivastava.
+\newblock {PROTC}.
+\newblock In {\em Proceedings of the 3rd Workshop on Micro Aerial Vehicle
+  Networks, Systems, and Applications - {DroNet} {\textquotesingle}17}. {ACM}
+  Press, 2017.
+\newblock \href {https://doi.org/10.1145/3086439.3086443}
+  {\path{doi:10.1145/3086439.3086443}}.
+
+\bibitem{hyper10}
+Pierre Lucas, Kevin Chappuis, M.~Paolino, Nicolas Dagieu, and D.~Raho.
+\newblock Vosysmonitor, a low latency monitor layer for mixed-criticality
+  systems on armv8-a.
+\newblock In {\em ECRTS}, 2017.
+
+\bibitem{misc7}
+Claudio Marforio, Nikolaos Karapanos, Claudio Soriente, Kari Kostiainen, and
+  Srdjan {\v{C}}apkun.
+\newblock Smartphones as practical and secure location verification tokens for
+  payments.
+\newblock In {\em Proceedings 2014 Network and Distributed System Security
+  Symposium}. Internet Society, 2014.
+\newblock \href {https://doi.org/10.14722/ndss.2014.23165}
+  {\path{doi:10.14722/ndss.2014.23165}}.
+
+\bibitem{hyper3}
+José Martins, João Alves, Jorge Cabral, Adriano Tavares, and Sandro Pinto.
+\newblock $\mu$rtzvisor: A secure and safe real-time hypervisor.
+\newblock volume~6, 2017.
+\newblock URL: \url{https://www.mdpi.com/2079-9292/6/4/93}, \href
+  {https://doi.org/10.3390/electronics6040093}
+  {\path{doi:10.3390/electronics6040093}}.
 
 \bibitem{cloud1}
 Zhenyu Ning, Jinghui Liao, Fengwei Zhang, and Weisong Shi.
@@ -48,6 +323,105 @@ Zhenyu Ning, Jinghui Liao, Fengwei Zhang, and Weisong Shi.
 \newblock \href {https://doi.org/10.1109/sec.2018.00057}
   {\path{doi:10.1109/sec.2018.00057}}.
 
+\bibitem{misc1}
+Zhenyu Ning and Fengwei Zhang.
+\newblock Ninja: Towards transparent tracing and debugging on arm.
+\newblock In {\em Proceedings of the 26th USENIX Conference on Security
+  Symposium}, SEC'17, page 33–49, USA, 2017. USENIX Association.
+
+\bibitem{emb10}
+Thomas Nyman, Jan-Erik Ekberg, Lucas Davi, and N.~Asokan.
+\newblock {CFI} {CaRE}: Hardware-supported call and~return enforcement for
+  commercial microcontrollers.
+\newblock In {\em Research in Attacks, Intrusions, and Defenses}, pages
+  259--284. Springer International Publishing, 2017.
+\newblock \href {https://doi.org/10.1007/978-3-319-66332-6_12}
+  {\path{doi:10.1007/978-3-319-66332-6_12}}.
+
+\bibitem{hyper2}
+M.~Paolino, A.~Rigo, A.~Spyridakis, Jeremy Fanguede, Petar Lalov, and D.~Raho.
+\newblock T-kvm : A trusted architecture for kvm arm v 7 and v 8 virtual
+  machines securing virtual machines by means of kvm , trustzone , tee and
+  selinux.
+\newblock 2015.
+
+\bibitem{hyper8}
+S.~Pinto, A.~Oliveira, J.~Pereira, J.~Cabral, J.~Monteiro, and A.~Tavares.
+\newblock Lightweight multicore virtualization architecture exploiting {ARM}
+  {TrustZone}.
+\newblock In {\em {IECON} 2017 - 43rd Annual Conference of the {IEEE}
+  Industrial Electronics Society}. {IEEE}, October 2017.
+\newblock \href {https://doi.org/10.1109/iecon.2017.8216603}
+  {\path{doi:10.1109/iecon.2017.8216603}}.
+
+\bibitem{emb5}
+S.~Pinto, D.~Oliveira, J.~Pereira, J.~Cabral, and A.~Tavares.
+\newblock {FreeTEE}: When real-time and security meet.
+\newblock In {\em 2015 {IEEE} 20th Conference on Emerging Technologies {\&}
+  Factory Automation ({ETFA})}. {IEEE}, September 2015.
+\newblock \href {https://doi.org/10.1109/etfa.2015.7301571}
+  {\path{doi:10.1109/etfa.2015.7301571}}.
+
+\bibitem{hyper9}
+S.~Pinto, D.~Oliveira, J.~Pereira, N.~Cardoso, M.~Ekpanyapong, J.~Cabral, and
+  A.~Tavares.
+\newblock Towards a lightweight embedded virtualization architecture exploiting
+  {ARM} {TrustZone}.
+\newblock In {\em Proceedings of the 2014 {IEEE} Emerging Technology and
+  Factory Automation ({ETFA})}. {IEEE}, September 2014.
+\newblock \href {https://doi.org/10.1109/etfa.2014.7005255}
+  {\path{doi:10.1109/etfa.2014.7005255}}.
+
+\bibitem{emb8}
+Sandro Pinto, Tiago Gomes, Jorge Pereira, Jorge Cabral, and Adriano Tavares.
+\newblock {IIoTEED}: An enhanced, trusted execution environment for industrial
+  {IoT} edge devices.
+\newblock {\em {IEEE} Internet Computing}, 21(1):40--47, January 2017.
+\newblock \href {https://doi.org/10.1109/mic.2017.17}
+  {\path{doi:10.1109/mic.2017.17}}.
+
+\bibitem{hyper1}
+Sandro Pinto, Jorge Pereira, Tiago Gomes, Mongkol Ekpanyapong, and Adriano
+  Tavares.
+\newblock Towards a {TrustZone}-assisted hypervisor for real-time embedded
+  systems.
+\newblock {\em {IEEE} Computer Architecture Letters}, 16(2):158--161, July
+  2017.
+\newblock \href {https://doi.org/10.1109/lca.2016.2617308}
+  {\path{doi:10.1109/lca.2016.2617308}}.
+
+\bibitem{hyper4}
+Sandro Pinto, Jorge Pereira, Tiago Gomes, Adriano Tavares, and Jorge Cabral.
+\newblock {LTZVisor: TrustZone is the Key}.
+\newblock In Marko Bertogna, editor, {\em 29th Euromicro Conference on
+  Real-Time Systems (ECRTS 2017)}, volume~76 of {\em Leibniz International
+  Proceedings in Informatics (LIPIcs)}, pages 4:1--4:22, Dagstuhl, Germany,
+  2017. Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik.
+\newblock URL: \url{http://drops.dagstuhl.de/opus/volltexte/2017/7153}, \href
+  {https://doi.org/10.4230/LIPIcs.ECRTS.2017.4}
+  {\path{doi:10.4230/LIPIcs.ECRTS.2017.4}}.
+
+\bibitem{survey4}
+Sandro Pinto and Nuno Santos.
+\newblock Demystifying arm {TrustZone}.
+\newblock {\em {ACM} Computing Surveys}, 51(6):1--36, February 2019.
+\newblock \href {https://doi.org/10.1145/3291047} {\path{doi:10.1145/3291047}}.
+
+\bibitem{hyper14}
+Sandro Pinto, Adriano Tavares, and Sergio Montenegro.
+\newblock Space and time partitioning with hardware support for space
+  applications.
+\newblock 05 2016.
+
+\bibitem{misc5}
+Martin Pirker and Daniel Slamanig.
+\newblock A framework for privacy-preserving mobile payment on security
+  enhanced {ARM} {TrustZone} platforms.
+\newblock In {\em 2012 {IEEE} 11th International Conference on Trust, Security
+  and Privacy in Computing and Communications}. {IEEE}, June 2012.
+\newblock \href {https://doi.org/10.1109/trustcom.2012.28}
+  {\path{doi:10.1109/trustcom.2012.28}}.
+
 \bibitem{cloud6}
 Martin Pirker, Daniel Slamanig, and Johannes Winter.
 \newblock Practical privacy preserving cloud resource-payment for constrained
@@ -57,6 +431,29 @@ Martin Pirker, Daniel Slamanig, and Johannes Winter.
 \newblock \href {https://doi.org/10.1007/978-3-642-31680-7_11}
   {\path{doi:10.1007/978-3-642-31680-7_11}}.
 
+\bibitem{misc6}
+Roland Rijswijk-Deij and Erik Poll.
+\newblock Using trusted execution environments in two-factor authentication:
+  comparing approaches.
+\newblock 09 2013.
+
+\bibitem{survey2}
+Mohamed Sabt, Mohammed Achemlal, and Abdelmadjid Bouabdallah.
+\newblock Trusted execution environment: What it is, and what it is not.
+\newblock In {\em 2015 IEEE Trustcom/BigDataSE/ISPA}, volume~1, pages 57--64,
+  2015.
+\newblock \href {https://doi.org/10.1109/Trustcom.2015.357}
+  {\path{doi:10.1109/Trustcom.2015.357}}.
+
+\bibitem{mobile6}
+Nuno Santos, Himanshu Raj, Stefan Saroiu, and Alec Wolman.
+\newblock Using {ARM} trustzone to build a trusted language runtime for mobile
+  applications.
+\newblock {\em {ACM} {SIGARCH} Computer Architecture News}, 42(1):67--80, April
+  2014.
+\newblock \href {https://doi.org/10.1145/2654822.2541949}
+  {\path{doi:10.1145/2654822.2541949}}.
+
 \bibitem{cloud2}
 Felix Schuster, Manuel Costa, Cedric Fournet, Christos Gkantsidis, Marcus
   Peinado, Gloria Mainar-Ruiz, and Mark Russinovich.
@@ -64,6 +461,14 @@ Felix Schuster, Manuel Costa, Cedric Fournet, Christos Gkantsidis, Marcus
 \newblock {IEEE}, May 2015.
 \newblock \href {https://doi.org/10.1109/sp.2015.10}
   {\path{doi:10.1109/sp.2015.10}}.
+
+\bibitem{hyper13}
+Oliver Schwarz, Christian Gehrmann, and Viktor Do.
+\newblock Affordable separation on embedded platforms.
+\newblock In {\em Trust and Trustworthy Computing}, pages 37--54. Springer
+  International Publishing, 2014.
+\newblock \href {https://doi.org/10.1007/978-3-319-08593-7_3}
+  {\path{doi:10.1007/978-3-319-08593-7_3}}.
 
 \bibitem{cloud7}
 Jaebok Shin, Yungu Kim, Wooram Park, and Chanik Park.
@@ -73,5 +478,115 @@ Jaebok Shin, Yungu Kim, Wooram Park, and Chanik Park.
   Technology and Science Proceedings}. {IEEE}, December 2012.
 \newblock \href {https://doi.org/10.1109/cloudcom.2012.6427606}
   {\path{doi:10.1109/cloudcom.2012.6427606}}.
+
+\bibitem{hyper12}
+Alexander Spyridakis, Petar Lalov, and Daniel Raho.
+\newblock Dual-os infrastructure for mixed-criticality systems on armv8
+  platforms.
+\newblock {\em Virtual Open Systems}, 2015.
+
+\bibitem{trust1}
+He~Sun, Kun Sun, Yuewu Wang, and Jiwu Jing.
+\newblock Trustotp: Transforming smartphones into secure one-time password
+  tokens.
+\newblock In {\em Proceedings of the 22nd ACM SIGSAC Conference on Computer and
+  Communications Security}, CCS '15, page 976–988, New York, NY, USA, 2015.
+  Association for Computing Machinery.
+\newblock \href {https://doi.org/10.1145/2810103.2813692}
+  {\path{doi:10.1145/2810103.2813692}}.
+
+\bibitem{trust2}
+He~Sun, Kun Sun, Yuewu Wang, Jiwu Jing, and Sushil Jajodia.
+\newblock {TrustDump}: Reliable memory acquisition on smartphones.
+\newblock In {\em Computer Security - {ESORICS} 2014}, pages 202--218. Springer
+  International Publishing, 2014.
+\newblock \href {https://doi.org/10.1007/978-3-319-11203-9_12}
+  {\path{doi:10.1007/978-3-319-11203-9_12}}.
+
+\bibitem{mobile1}
+He~Sun, Kun Sun, Yuewu Wang, Jiwu Jing, and Haining Wang.
+\newblock {TrustICE}: Hardware-assisted isolated computing environments on
+  mobile devices.
+\newblock In {\em 2015 45th Annual {IEEE}/{IFIP} International Conference on
+  Dependable Systems and Networks}. {IEEE}, June 2015.
+\newblock \href {https://doi.org/10.1109/dsn.2015.11}
+  {\path{doi:10.1109/dsn.2015.11}}.
+
+\bibitem{misc4}
+Sandeep Tamrakar, Jan-Erik Ekberg, and N.~Asokan.
+\newblock Identity verification schemes for public transport ticketing with
+  {NFC} phones.
+\newblock In {\em Proceedings of the sixth {ACM} workshop on Scalable trusted
+  computing - {STC} {\textquotesingle}11}. {ACM} Press, 2011.
+\newblock \href {https://doi.org/10.1145/2046582.2046591}
+  {\path{doi:10.1145/2046582.2046591}}.
+
+\bibitem{trust4}
+Ronald T{\"o}gl, Johannes Winter, and Martin Pirker.
+\newblock A path towards ubiquitous protection of media.
+\newblock In {\em Proc.Workshop on Web Applications and Secure Hardware},
+  volume 1011 of {\em CEUR Workshop Proceedings}, pages 32--38. Technical
+  University of Aachen, 2013.
+\newblock urn:nbn:de:0074-1011-6; Workshop on Web Applications and Secure
+  Hardware ; Conference date: 20-06-2013.
+
+\bibitem{mobile4}
+Amit Vasudevan, Emmanuel Owusu, Zongwei Zhou, James Newsome, and Jonathan
+  McCune.
+\newblock Trustworthy execution on mobile devices: What security properties can
+  my mobile platform give me?
+\newblock volume 7344, pages 159--178, 06 2012.
+\newblock \href {https://doi.org/10.1007/978-3-642-30921-2_10}
+  {\path{doi:10.1007/978-3-642-30921-2_10}}.
+
+\bibitem{mobile7}
+John Williams.
+\newblock Inspecting data from the safety of your trusted execution
+  environment.
+\newblock {\em Proceedings of the Black Hat Conference}, 2015.
+
+\bibitem{emb2}
+Johannes Winter.
+\newblock Trusted computing building blocks for embedded linux-based {ARM}
+  trustzone platforms.
+\newblock In {\em Proceedings of the 3rd {ACM} workshop on Scalable trusted
+  computing - {STC} {\textquotesingle}08}. {ACM} Press, 2008.
+\newblock \href {https://doi.org/10.1145/1456455.1456460}
+  {\path{doi:10.1145/1456455.1456460}}.
+
+\bibitem{emb6}
+Johannes Winter.
+\newblock Experimenting with {ARM} {TrustZone} -- or: How i met friendly piece
+  of trusted hardware.
+\newblock In {\em 2012 {IEEE} 11th International Conference on Trust, Security
+  and Privacy in Computing and Communications}. {IEEE}, June 2012.
+\newblock \href {https://doi.org/10.1109/trustcom.2012.157}
+  {\path{doi:10.1109/trustcom.2012.157}}.
+
+\bibitem{survey1}
+Fengwei Zhang and Hongwei Zhang.
+\newblock Sok: A study of using hardware-assisted isolated execution
+  environments for security.
+\newblock In {\em Proceedings of the Hardware and Architectural Support for
+  Security and Privacy 2016}, HASP 2016, New York, NY, USA, 2016. Association
+  for Computing Machinery.
+\newblock \href {https://doi.org/10.1145/2948618.2948621}
+  {\path{doi:10.1145/2948618.2948621}}.
+
+\bibitem{emb7}
+Bo~Zhao, Yu~Xiao, Yuqing Huang, and Xiaoyu Cui.
+\newblock A private user data protection mechanism in trustzone architecture
+  based on identity authentication.
+\newblock {\em Tsinghua Science and Technology}, 22(2):218--225, April 2017.
+\newblock \href {https://doi.org/10.23919/tst.2017.7889643}
+  {\path{doi:10.23919/tst.2017.7889643}}.
+
+\bibitem{emb11}
+Shijun Zhao, Qianying Zhang, Guangyao Hu, Yu~Qin, and Dengguo Feng.
+\newblock Providing root of trust for {ARM} {TrustZone} using on-chip {SRAM}.
+\newblock In {\em Proceedings of the 4th International Workshop on Trustworthy
+  Embedded Devices - {TrustED} {\textquotesingle}14}. {ACM} Press, 2014.
+\newblock \href {https://doi.org/10.1145/2666141.2666145}
+  {\path{doi:10.1145/2666141.2666145}}.
 
 \end{thebibliography}

@@ -1,3 +1,12 @@
+
+@book{tee,
+  year      = {2011},
+  url       = {http://globalplatform.org/specificationsdevice.asp},
+  publisher = {[Online]},
+  author    = {GlobalPlatform},
+  title     = {TEE system architecture}
+}
+
 @inproceedings{cloud1,
   doi       = {10.1109/sec.2018.00057},
   url       = {https://doi.org/10.1109/sec.2018.00057},
@@ -154,7 +163,663 @@
   month     = jul,
   publisher = {{IEEE}},
   author    = {Andreas Fitzek and Florian Achleitner and Johannes Winter and Daniel Hein},
-  title     = {The {ANDIX} research {OS} {\&}{\#}x2014$\mathsemicolon$ {ARM} {TrustZone} meets industrial control systems security},
+  title     = {The {ANDIX} research {OS} - {ARM} {TrustZone} meets industrial control systems security},
   booktitle = {2015 {IEEE} 13th International Conference on Industrial Informatics ({INDIN})}
 }
+@article{hyper1,
+  doi       = {10.1109/lca.2016.2617308},
+  url       = {https://doi.org/10.1109/lca.2016.2617308},
+  year      = {2017},
+  month     = jul,
+  publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+  volume    = {16},
+  number    = {2},
+  pages     = {158--161},
+  author    = {Sandro Pinto and Jorge Pereira and Tiago Gomes and Mongkol Ekpanyapong and Adriano Tavares},
+  title     = {Towards a {TrustZone}-Assisted Hypervisor for Real-Time Embedded Systems},
+  journal   = {{IEEE} Computer Architecture Letters}
+}
 
+@inproceedings{hyper2,
+  title  = {T-KVM : A Trusted architecture for KVM ARM v 7 and v 8 Virtual Machines Securing Virtual Machines by means of KVM , TrustZone , TEE and SELinux},
+  author = {M. Paolino and A. Rigo and A. Spyridakis and Jeremy Fanguede and Petar Lalov and D. Raho},
+  year   = {2015}
+}
+
+
+@inproceedings{hyper3,
+  author         = {Martins, José and Alves, João and Cabral, Jorge and Tavares, Adriano and Pinto, Sandro},
+  title          = {$\mu$RTZVisor: A Secure and Safe Real-Time Hypervisor},
+  journal        = {Electronics},
+  volume         = {6},
+  year           = {2017},
+  number         = {4},
+  article-number = {93},
+  url            = {https://www.mdpi.com/2079-9292/6/4/93},
+  issn           = {2079-9292},
+  doi            = {10.3390/electronics6040093}
+}
+
+@inproceedings{hyper4,
+  author    = {Sandro Pinto and Jorge Pereira and Tiago Gomes and Adriano Tavares and Jorge Cabral},
+  title     = {{LTZVisor: TrustZone is the Key}},
+  booktitle = {29th Euromicro Conference on Real-Time Systems (ECRTS 2017)},
+  pages     = {4:1--4:22},
+  series    = {Leibniz International Proceedings in Informatics (LIPIcs)},
+  isbn      = {978-3-95977-037-8},
+  issn      = {1868-8969},
+  year      = {2017},
+  volume    = {76},
+  editor    = {Marko Bertogna},
+  publisher = {Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik},
+  address   = {Dagstuhl, Germany},
+  url       = {http://drops.dagstuhl.de/opus/volltexte/2017/7153},
+  urn       = {urn:nbn:de:0030-drops-71535},
+  doi       = {10.4230/LIPIcs.ECRTS.2017.4},
+  annote    = {Keywords: hypervisor, virtualization, TrustZone, space and time partitioning, real-time, embedded systems}
+}
+
+@inproceedings{hyper5,
+  doi       = {10.1109/icit.2018.8352425},
+  url       = {https://doi.org/10.1109/icit.2018.8352425},
+  year      = {2018},
+  month     = feb,
+  publisher = {{IEEE}},
+  author    = {Giorgiomaria Cicero and Alessandro Biondi and Giorgio Buttazzo and Anup Patel},
+  title     = {Reconciling security with virtualization: A dual-hypervisor design for {ARM} {TrustZone}},
+  booktitle = {2018 {IEEE} International Conference on Industrial Technology ({ICIT})}
+}
+
+@inproceedings{hyper6,
+  doi       = {10.1109/isie.2008.4677005},
+  url       = {https://doi.org/10.1109/isie.2008.4677005},
+  year      = {2008},
+  month     = jun,
+  publisher = {{IEEE}},
+  author    = {Marco Cereia and Ivan Cibrario Bertolotti},
+  title     = {Asymmetric virtualisation for real-time systems},
+  booktitle = {2008 {IEEE} International Symposium on Industrial Electronics}
+}
+
+@inproceedings{hyper7,
+  author    = {Hua, Zhichao and Gu, Jinyu and Xia, Yubin and Chen, Haibo and Zang, Binyu and Guan, Haibing},
+  title     = {VTZ: Virtualizing ARM Trustzone},
+  year      = {2017},
+  isbn      = {9781931971409},
+  publisher = {USENIX Association},
+  address   = {USA},
+  abstract  = {ARM TrustZone, a security extension that provides a secure world, a trusted execution environment (TEE), to run security-sensitive code, has been widely adopted in mobile platforms. With the increasing momentum of ARM64 being adopted in server markets like cloud, it is likely to see TrustZone being adopted as a key pillar for cloud security. Unfortunately, TrustZone is not designed to be virtualizable as there is only one TEE provided by the hardware, which prevents it from being securely shared by multiple virtual machines (VMs). This paper conducts a study on variable approaches to virtualizing TrustZone in virtualized environments and then presents vTZ, a solution that securely provides each guest VM with a virtualized guest TEE using existing hardware. vTZ leverages the idea of separating functionality from protection by maintaining a secure co-running VM to serve as a guest TEE, while using the hardware TrustZone to enforce strong isolation among guest TEEs and the untrusted hypervisor. Specifically, vTZ uses a tiny monitor running within the physical TrustZone that securely interposes and virtualizes memory mapping and world switching. vTZ further leverages a few pieces of protected, self-contained code running in a Constrained Isolated Execution Environment (CIEE) to provide secure virtualization and isolation among multiple guest TEEs. We have implemented vTZ on Xen 4.8 on both ARMv7 and ARMv8 development boards. Evaluation using two common TEE-kernels (secure kernel running in TEE) such as seL4 1 and OP-TEE shows that vTZ provides strong security with small performance overhead.},
+  booktitle = {Proceedings of the 26th USENIX Conference on Security Symposium},
+  pages     = {541–556},
+  numpages  = {16},
+  location  = {Vancouver, BC, Canada},
+  series    = {SEC'17}
+}
+
+@inproceedings{hyper8,
+  doi       = {10.1109/iecon.2017.8216603},
+  url       = {https://doi.org/10.1109/iecon.2017.8216603},
+  year      = {2017},
+  month     = oct,
+  publisher = {{IEEE}},
+  author    = {S. Pinto and A. Oliveira and J. Pereira and J. Cabral and J. Monteiro and A. Tavares},
+  title     = {Lightweight multicore virtualization architecture exploiting {ARM} {TrustZone}},
+  booktitle = {{IECON} 2017 - 43rd Annual Conference of the {IEEE} Industrial Electronics Society}
+}
+
+@inproceedings{hyper9,
+  doi       = {10.1109/etfa.2014.7005255},
+  url       = {https://doi.org/10.1109/etfa.2014.7005255},
+  year      = {2014},
+  month     = sep,
+  publisher = {{IEEE}},
+  author    = {S. Pinto and D. Oliveira and J. Pereira and N. Cardoso and M. Ekpanyapong and J. Cabral and A. Tavares},
+  title     = {Towards a lightweight embedded virtualization architecture exploiting {ARM} {TrustZone}},
+  booktitle = {Proceedings of the 2014 {IEEE} Emerging Technology and Factory Automation ({ETFA})}
+}
+@inproceedings{hyper10,
+  title     = {VOSYSmonitor, a Low Latency Monitor Layer for Mixed-Criticality Systems on ARMv8-A},
+  author    = {Pierre Lucas and Kevin Chappuis and M. Paolino and Nicolas Dagieu and D. Raho},
+  booktitle = {ECRTS},
+  year      = {2017}
+}
+@incollection{hyper11,
+  doi       = {10.1007/978-3-540-69295-9_28},
+  url       = {https://doi.org/10.1007/978-3-540-69295-9_28},
+  publisher = {Springer Berlin Heidelberg},
+  pages     = {343--357},
+  author    = {Florian Kluge and J\"{o}rg Mische and Sascha Uhrig and Theo Ungerer},
+  title     = {An Operating System Architecture for Organic Computing in Embedded Real-Time Systems},
+  booktitle = {Lecture Notes in Computer Science}
+}
+
+@article{hyper12,
+  year      = {2015},
+  publisher = {thinkmd},
+  author    = {Alexander Spyridakis and Petar Lalov and Daniel Raho},
+  title     = {Dual-OS Infrastructure for Mixed-Criticality Systems on ARMv8 Platforms},
+  journal   = {Virtual Open Systems}
+}
+
+
+@incollection{hyper13,
+  doi       = {10.1007/978-3-319-08593-7_3},
+  url       = {https://doi.org/10.1007/978-3-319-08593-7_3},
+  year      = {2014},
+  publisher = {Springer International Publishing},
+  pages     = {37--54},
+  author    = {Oliver Schwarz and Christian Gehrmann and Viktor Do},
+  title     = {Affordable Separation on Embedded Platforms},
+  booktitle = {Trust and Trustworthy Computing}
+}
+
+@inproceedings{hyper14,
+  author = {Pinto, Sandro and Tavares, Adriano and Montenegro, Sergio},
+  year   = {2016},
+  month  = {05},
+  pages  = {},
+  title  = {Space and time partitioning with hardware support for space applications}
+}
+
+@inproceedings{mobile1,
+  doi       = {10.1109/dsn.2015.11},
+  url       = {https://doi.org/10.1109/dsn.2015.11},
+  year      = {2015},
+  month     = jun,
+  publisher = {{IEEE}},
+  author    = {He Sun and Kun Sun and Yuewu Wang and Jiwu Jing and Haining Wang},
+  title     = {{TrustICE}: Hardware-Assisted Isolated Computing Environments on Mobile Devices},
+  booktitle = {2015 45th Annual {IEEE}/{IFIP} International Conference on Dependable Systems and Networks}
+}
+
+@inproceedings{mobile2,
+  doi       = {10.1109/uic-atc.2013.76},
+  url       = {https://doi.org/10.1109/uic-atc.2013.76},
+  year      = {2013},
+  month     = dec,
+  publisher = {{IEEE}},
+  author    = {Zaheer Ahmad and Lishoy Francis and Tansir Ahmed and Christopher Lobodzinski and Dev Audsin and Peng Jiang},
+  title     = {Enhancing the Security of Mobile Applications by Using {TEE} and (U){SIM}},
+  booktitle = {2013 {IEEE} 10th International Conference on Ubiquitous Intelligence and Computing and 2013 {IEEE} 10th International Conference on Autonomic and Trusted Computing}
+}
+
+@inproceedings{mobile3,
+  author    = {Li, Wenhao and Ma, Mingyang and Han, Jinchen and Xia, Yubin and Zang, Binyu and Chu, Cheng-Kang and Li, Tieyan},
+  title     = {Building Trusted Path on Untrusted Device Drivers for Mobile Devices},
+  year      = {2014},
+  isbn      = {9781450330244},
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  url       = {https://doi.org/10.1145/2637166.2637225},
+  doi       = {10.1145/2637166.2637225},
+  abstract  = {Mobile devices are frequently used as terminals to interact with many security-critical services such as mobile payment and online banking. However, the large client software stack and the continuous proliferation of malware expose such interaction under various threats, including passive attacks like phishing and active ones like direct code manipulation. This paper proposes TrustUI, a new trusted path design for mobile devices that enables secure interaction between end users and services based on ARM's TrustZone technology. TrustUI is built with a combination of key techniques including cooperative randomization of the trusted path and secure delegation of network interaction. With such techniques, TrustUI not only requires no trust of the commodity software stack, but also takes a step further by excluding drivers for user-interacting devices like touch screen from its trusted computing base (TCB). Hence, TrustUI has a much smaller TCB, requires no access to device driver code, and may easily adapt to many devices. A prototype of TrustUI has been implemented on a Samsung Exynos 4412 board and evaluation shows that TrustUI provides strong protection of users interaction.},
+  booktitle = {Proceedings of 5th Asia-Pacific Workshop on Systems},
+  articleno = {8},
+  numpages  = {7},
+  location  = {Beijing, China},
+  series    = {APSys '14}
+}
+
+@inproceedings{mobile4,
+  author = {Vasudevan, Amit and Owusu, Emmanuel and Zhou, Zongwei and Newsome, James and McCune, Jonathan},
+  year   = {2012},
+  month  = {06},
+  pages  = {159-178},
+  title  = {Trustworthy Execution on Mobile Devices: What Security Properties Can My Mobile Platform Give Me?},
+  volume = {7344},
+  isbn   = {978-3-642-30920-5},
+  doi    = {10.1007/978-3-642-30921-2_10}
+}
+
+@article{mobile5,
+  author  = {Ekberg, Jan-Erik and Kostiainen, Kari and Asokan, N.},
+  journal = {IEEE Security   Privacy},
+  title   = {The Untapped Potential of Trusted Execution Environments on Mobile Devices},
+  year    = {2014},
+  volume  = {12},
+  number  = {4},
+  pages   = {29-37},
+  doi     = {10.1109/MSP.2014.38}
+}
+
+@article{mobile6,
+  doi       = {10.1145/2654822.2541949},
+  url       = {https://doi.org/10.1145/2654822.2541949},
+  year      = {2014},
+  month     = apr,
+  publisher = {Association for Computing Machinery ({ACM})},
+  volume    = {42},
+  number    = {1},
+  pages     = {67--80},
+  author    = {Nuno Santos and Himanshu Raj and Stefan Saroiu and Alec Wolman},
+  title     = {Using {ARM} trustzone to build a trusted language runtime for mobile applications},
+  journal   = {{ACM} {SIGARCH} Computer Architecture News}
+}
+
+@article{mobile7,
+  year    = {2015},
+  journal = {Proceedings of the Black Hat Conference},
+  author  = {John Williams},
+  title   = {Inspecting data from the safety of your trusted execution environment.}
+}
+
+@inproceedings{mobile8,
+  doi       = {10.1145/2906388.2906390},
+  url       = {https://doi.org/10.1145/2906388.2906390},
+  year      = {2016},
+  month     = jun,
+  publisher = {{ACM}},
+  author    = {Ferdinand Brasser and Daeyoung Kim and Christopher Liebchen and Vinod Ganapathy and Liviu Iftode and Ahmad-Reza Sadeghi},
+  title     = {Regulating {ARM} {TrustZone} Devices in Restricted Spaces},
+  booktitle = {Proceedings of the 14th Annual International Conference on Mobile Systems,  Applications,  and Services}
+}
+
+@article{mobile9,
+  doi       = {10.1109/tdsc.2018.2840709},
+  url       = {https://doi.org/10.1109/tdsc.2018.2840709},
+  year      = {2020},
+  month     = sep,
+  publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+  volume    = {17},
+  number    = {5},
+  pages     = {1000--1014},
+  author    = {Jinsoo Jang and Brent Byunghoon Kang},
+  title     = {Retrofitting the Partially Privileged Mode for {TEE} Communication Channel Protection},
+  journal   = {{IEEE} Transactions on Dependable and Secure Computing}
+}
+
+@inproceedings{trust1,
+  author    = {Sun, He and Sun, Kun and Wang, Yuewu and Jing, Jiwu},
+  title     = {TrustOTP: Transforming Smartphones into Secure One-Time Password Tokens},
+  year      = {2015},
+  isbn      = {9781450338325},
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  url       = {https://doi.org/10.1145/2810103.2813692},
+  doi       = {10.1145/2810103.2813692},
+  abstract  = {Two-factor authentication has been widely used due to the vulnerabilities associated with traditional text-based password. One-time password (OTP) plays an indispensable role on authenticating mobile users to critical web services that demand a high level of security. As the smartphones are increasingly gaining popularity nowadays, software-based OTP generators have been developed and installed into smartphones as software apps, which bring great convenience to the users without introducing extra burden. However, software-based OTP solutions cannot guarantee the confidentiality of the generated passwords or even the seeds when the mobile OS is compromised. Moreover, they also suffer from denial-of-service attacks when the mobile OS crashes. Hardware-based OTP tokens can solve these security problems in the software-based OTP solutions; however, it is inconvenient for the users to carry physical tokens with them, particularly, when there are more than one token to be carried. In this paper, we present TrustOTP, a secure one-time password solution that can achieve both the flexibility of software tokens and the security of hardware tokens by using ARM TrustZone technology. TrustOTP can not only protect the confidentiality of the OTPs against a malicious mobile OS, but also guarantee reliable OTP generation and trusted OTP display when the mobile OS is compromised or even crashes. It is flexible to integrate multiple OTP algorithms and instances for different application scenarios on the same smartphone platform without modifying the mobile OS. We develop a prototype of TrustOTP on Freescale i.MX53 QSB. The experimental results show that TrustOTP has small impacts on the mobile OS and its power consumption is low.},
+  booktitle = {Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications Security},
+  pages     = {976–988},
+  numpages  = {13},
+  keywords  = {one-time password, arm trustzone, secure GUI},
+  location  = {Denver, Colorado, USA},
+  series    = {CCS '15}
+}
+
+@incollection{trust2,
+  doi       = {10.1007/978-3-319-11203-9_12},
+  url       = {https://doi.org/10.1007/978-3-319-11203-9_12},
+  year      = {2014},
+  publisher = {Springer International Publishing},
+  pages     = {202--218},
+  author    = {He Sun and Kun Sun and Yuewu Wang and Jiwu Jing and Sushil Jajodia},
+  title     = {{TrustDump}: Reliable Memory Acquisition on Smartphones},
+  booktitle = {Computer Security - {ESORICS} 2014}
+}
+
+@inproceedings{trust3,
+  doi       = {10.1109/icmb.2006.14},
+  url       = {https://doi.org/10.1109/icmb.2006.14},
+  year      = {2006},
+  month     = dec,
+  publisher = {{IEEE}},
+  author    = {Wan Huzaini Wan Hussin},
+  title     = {E-Pass Using {DRM} in Symbian v8 {OS} and {TrustZone} : Securing Vital Data on Mobile Devices},
+  booktitle = {2006 International Conference on Mobile Business}
+}
+
+@inproceedings{trust4,
+  title     = {A Path Towards Ubiquitous Protection of Media},
+  author    = {Ronald T{\"o}gl and Johannes Winter and Martin Pirker},
+  note      = {urn:nbn:de:0074-1011-6; Workshop on Web Applications and Secure Hardware ; Conference date: 20-06-2013},
+  year      = {2013},
+  language  = {English},
+  volume    = {1011},
+  series    = {CEUR Workshop Proceedings},
+  publisher = {Technical University of Aachen},
+  pages     = {32--38},
+  booktitle = {Proc.Workshop on Web Applications and Secure Hardware}
+}
+
+@inproceedings{trust5-7,
+  author    = {Hoekstra, Matthew and Lal, Reshma and Pappachan, Pradeep and Phegade, Vinay and Del Cuvillo, Juan},
+  title     = {Using Innovative Instructions to Create Trustworthy Software Solutions},
+  year      = {2013},
+  isbn      = {9781450321181},
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  url       = {https://doi.org/10.1145/2487726.2488370},
+  doi       = {10.1145/2487726.2488370},
+  abstract  = {Software developers face a number of challenges when creating applications that attempt to keep important data confidential. Even with diligent attention paid to correct software design and implementation practices, secrets can still be exposed through a single flaw in any of the privileged code on the platform, code which may have been written by thousands of developers from hundreds of organizations throughout the world. Intel is developing innovative security technology which provides the ability for software developers to maintain control of the security of sensitive code and data by creating trusted domains within applications to protect critical information during execution and at rest. This paper will describe how this technology has been effectively used in lab exercises to protect private information in applications including enterprise rights management, video chat, trusted financial transactions, and others. Examples will include both protection of local processing and the establishment of secure communication with cloud services. It will illustrate useful software design patterns that can be followed to create many additional types of trusted software solutions.},
+  booktitle = {Proceedings of the 2nd International Workshop on Hardware and Architectural Support for Security and Privacy},
+  articleno = {11},
+  numpages  = {1},
+  location  = {Tel-Aviv, Israel},
+  series    = {HASP '13}
+}
+
+@inproceedings{trust8,
+  doi       = {10.1145/3011883.3011892},
+  url       = {https://doi.org/10.1145/3011883.3011892},
+  year      = {2016},
+  month     = sep,
+  publisher = {{ACM}},
+  author    = {Ranjbar A. Balisane and Andrew Martin},
+  title     = {Trusted execution environment-based authentication gauge
+		            ({TEEBAG})},
+  booktitle = {Proceedings of the 2016 New Security Paradigms Workshop}
+}
+
+@inproceedings{trust9,
+  doi       = {10.1109/trustcom.2015.378},
+  url       = {https://doi.org/10.1109/trustcom.2015.378},
+  year      = {2015},
+  month     = aug,
+  publisher = {{IEEE}},
+  author    = {Daniel Hein and Johannes Winter and Andreas Fitzek},
+  title     = {Secure Block Device -- Secure,  Flexible,  and Efficient Data Storage for {ARM} {TrustZone} Systems},
+  booktitle = {2015 {IEEE} Trustcom/{BigDataSE}/{ISPA}}
+}
+
+@inproceedings{trust10,
+  doi       = {10.1109/iceccs.2014.13},
+  url       = {https://doi.org/10.1109/iceccs.2014.13},
+  year      = {2014},
+  month     = aug,
+  publisher = {{IEEE}},
+  author    = {Xiaolei Li and Hong Hu and Guangdong Bai and Yaoqi Jia and Zhenkai Liang and Prateek Saxena},
+  title     = {{DroidVault}: A Trusted Data Vault for Android Devices},
+  booktitle = {2014 19th International Conference on Engineering of Complex Computer Systems}
+}
+
+@inproceedings{misc1,
+  author    = {Ning, Zhenyu and Zhang, Fengwei},
+  title     = {Ninja: Towards Transparent Tracing and Debugging on ARM},
+  year      = {2017},
+  isbn      = {9781931971409},
+  publisher = {USENIX Association},
+  address   = {USA},
+  abstract  = {Existing malware analysis platforms leave detectable fingerprints like uncommon string properties in QEMU, signatures in Android Java virtual machine, and artifacts in Linux kernel profiles. Since these fingerprints provide the malware a chance to split its behavior depending on whether the analysis system is present or not, existing analysis systems are not sufficient to analyze the sophisticated malware. In this paper, we propose NINJA, a transparent malware analysis framework on ARM platform with low artifacts. NINJA leverages a hardware-assisted isolated execution environment Trust-Zone to transparently trace and debug a target application with the help of Performance Monitor Unit and Embedded Trace Macrocell. NINJA does not modify system software and is OS-agnostic on ARM platform. We implement a prototype of NINJA (i.e., tracing and debugging subsystems), and the experiment results show that NINJA is efficient and transparent for malware analysis.},
+  booktitle = {Proceedings of the 26th USENIX Conference on Security Symposium},
+  pages     = {33–49},
+  numpages  = {17},
+  location  = {Vancouver, BC, Canada},
+  series    = {SEC'17}
+}
+
+@inproceedings{misc2,
+  author    = {Kim, Seongmin and Shin, Youjung and Ha, Jaehyung and Kim, Taesoo and Han, Dongsu},
+  title     = {A First Step Towards Leveraging Commodity Trusted Execution Environments for Network Applications},
+  year      = {2015},
+  isbn      = {9781450340472},
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  url       = {https://doi.org/10.1145/2834050.2834100},
+  doi       = {10.1145/2834050.2834100},
+  abstract  = {Network applications and protocols are increasingly adopting security and privacy features, as they are becoming one of the primary requirements. The wide-spread use of transport layer security (TLS) and the growing popularity of anonymity networks, such as Tor, exemplify this trend. Motivated by the recent movement towards commoditization of trusted execution environments (TEEs), this paper explores alternative design choices that application and protocol designers should consider. In particular, we explore the possibility of using Intel SGX to provide security and privacy in a wide range of network applications. We show that leveraging hardware protection of TEEs opens up new possibilities, often at the benefit of a much simplified application/protocol design. We demonstrate its practical implications by exploring the design space for SGX-enabled software-defined inter-domain routing, peer-to-peer anonymity networks (Tor), and middleboxes. Finally, we quantify the potential overheads of the SGX-enabled design by implementing it on top of OpenSGX, an open source SGX emulator.},
+  booktitle = {Proceedings of the 14th ACM Workshop on Hot Topics in Networks},
+  articleno = {7},
+  numpages  = {7},
+  location  = {Philadelphia, PA, USA},
+  series    = {HotNets-XIV}
+}
+@inproceedings{misc3,
+  doi       = {10.1109/icmb.2005.71},
+  url       = {https://doi.org/10.1109/icmb.2005.71},
+  publisher = {{IEEE}},
+  author    = {Wan Huzaini and  Wan Hussin and P. Coulton and R. Edwards},
+  title     = {Mobile Ticketing System Employing {TrustZone} Technology},
+  booktitle = {International Conference on Mobile Business ({ICMB}{\textquotesingle}05)}
+}
+
+@inproceedings{misc4,
+  doi       = {10.1145/2046582.2046591},
+  url       = {https://doi.org/10.1145/2046582.2046591},
+  year      = {2011},
+  publisher = {{ACM} Press},
+  author    = {Sandeep Tamrakar and Jan-Erik Ekberg and N. Asokan},
+  title     = {Identity verification schemes for public transport ticketing with {NFC} phones},
+  booktitle = {Proceedings of the sixth {ACM} workshop on Scalable trusted computing - {STC} {\textquotesingle}11}
+}
+
+@inproceedings{misc5,
+  doi       = {10.1109/trustcom.2012.28},
+  url       = {https://doi.org/10.1109/trustcom.2012.28},
+  year      = {2012},
+  month     = jun,
+  publisher = {{IEEE}},
+  author    = {Martin Pirker and Daniel Slamanig},
+  title     = {A Framework for Privacy-Preserving Mobile Payment on Security Enhanced {ARM} {TrustZone} Platforms},
+  booktitle = {2012 {IEEE} 11th International Conference on Trust,  Security and Privacy in Computing and Communications}
+}
+
+@inproceedings{misc6,
+  author  = {Rijswijk-Deij, Roland and Poll, Erik},
+  year    = {2013},
+  month   = {09},
+  pages   = {},
+  title   = {Using Trusted Execution Environments in Two-factor Authentication: comparing approaches},
+  journal = {Lecture Notes in Informatics (LNI), Proceedings - Series of the Gesellschaft fur Informatik (GI)}
+}
+
+@inproceedings{misc7,
+  doi       = {10.14722/ndss.2014.23165},
+  url       = {https://doi.org/10.14722/ndss.2014.23165},
+  year      = {2014},
+  publisher = {Internet Society},
+  author    = {Claudio Marforio and Nikolaos Karapanos and Claudio Soriente and Kari Kostiainen and Srdjan {\v{C}}apkun},
+  title     = {Smartphones as Practical and Secure Location Verification Tokens for Payments},
+  booktitle = {Proceedings 2014 Network and Distributed System Security Symposium}
+}
+
+@inproceedings{misc8,
+  doi       = {10.1145/2742647.2742676},
+  url       = {https://doi.org/10.1145/2742647.2742676},
+  year      = {2015},
+  month     = may,
+  publisher = {{ACM}},
+  author    = {Wenhao Li and Haibo Li and Haibo Chen and Yubin Xia},
+  title     = {{AdAttester}},
+  booktitle = {Proceedings of the 13th Annual International Conference on Mobile Systems,  Applications,  and Services}
+}
+
+@inproceedings{misc9,
+  author = {Jang, Jinsoo and Kong, Sunjune and Kim, Minsu and Kim, Daegyeong and Kang, Brent},
+  year   = {2015},
+  month  = {01},
+  pages  = {},
+  title  = {SeCReT: Secure Channel between Rich Execution Environment and Trusted Execution Environment},
+  doi    = {10.14722/ndss.2015.23189}
+}
+
+@inproceedings{emb1,
+  doi       = {10.1145/2307636.2307670},
+  url       = {https://doi.org/10.1145/2307636.2307670},
+  year      = {2012},
+  publisher = {{ACM} Press},
+  author    = {He Liu and Stefan Saroiu and Alec Wolman and Himanshu Raj},
+  title     = {Software abstractions for trusted sensors},
+  booktitle = {Proceedings of the 10th international conference on Mobile systems,  applications,  and services - {MobiSys} {\textquotesingle}12}
+}
+
+@inproceedings{emb2,
+  doi       = {10.1145/1456455.1456460},
+  url       = {https://doi.org/10.1145/1456455.1456460},
+  year      = {2008},
+  publisher = {{ACM} Press},
+  author    = {Johannes Winter},
+  title     = {Trusted computing building blocks for embedded linux-based {ARM} trustzone platforms},
+  booktitle = {Proceedings of the 3rd {ACM} workshop on Scalable trusted computing - {STC} {\textquotesingle}08}
+}
+
+@inproceedings{emb3,
+  doi       = {10.1109/iccve.2013.6799789},
+  url       = {https://doi.org/10.1109/iccve.2013.6799789},
+  year      = {2013},
+  month     = dec,
+  publisher = {{IEEE}},
+  author    = {Se Won Kim and Chiyoung Lee and MooWoong Jeon and Hae Young Kwon and Hyun Woo Lee and Chuck Yoo},
+  title     = {Secure device access for automotive software},
+  booktitle = {2013 International Conference on Connected Vehicles and Expo ({ICCVE})}
+}
+
+@inproceedings{emb4,
+  doi       = {10.1145/3086439.3086443},
+  url       = {https://doi.org/10.1145/3086439.3086443},
+  year      = {2017},
+  publisher = {{ACM} Press},
+  author    = {Renju Liu and Mani Srivastava},
+  title     = {{PROTC}},
+  booktitle = {Proceedings of the 3rd Workshop on Micro Aerial Vehicle Networks,  Systems,  and Applications  - {DroNet} {\textquotesingle}17}
+}
+
+@inproceedings{emb5,
+  doi       = {10.1109/etfa.2015.7301571},
+  url       = {https://doi.org/10.1109/etfa.2015.7301571},
+  year      = {2015},
+  month     = sep,
+  publisher = {{IEEE}},
+  author    = {S. Pinto and D. Oliveira and J. Pereira and J. Cabral and A. Tavares},
+  title     = {{FreeTEE}: When real-time and security meet},
+  booktitle = {2015 {IEEE} 20th Conference on Emerging Technologies {\&} Factory Automation ({ETFA})}
+}
+
+@inproceedings{emb6,
+  doi       = {10.1109/trustcom.2012.157},
+  url       = {https://doi.org/10.1109/trustcom.2012.157},
+  year      = {2012},
+  month     = jun,
+  publisher = {{IEEE}},
+  author    = {Johannes Winter},
+  title     = {Experimenting with {ARM} {TrustZone} -- Or: How I Met Friendly Piece of Trusted Hardware},
+  booktitle = {2012 {IEEE} 11th International Conference on Trust,  Security and Privacy in Computing and Communications}
+}
+
+@article{emb7,
+  doi       = {10.23919/tst.2017.7889643},
+  url       = {https://doi.org/10.23919/tst.2017.7889643},
+  year      = {2017},
+  month     = apr,
+  publisher = {Tsinghua University Press},
+  volume    = {22},
+  number    = {2},
+  pages     = {218--225},
+  author    = {Bo Zhao and Yu Xiao and Yuqing Huang and Xiaoyu Cui},
+  title     = {A private user data protection mechanism in trustzone architecture based on identity authentication},
+  journal   = {Tsinghua Science and Technology}
+}
+@article{emb8,
+  doi       = {10.1109/mic.2017.17},
+  url       = {https://doi.org/10.1109/mic.2017.17},
+  year      = {2017},
+  month     = jan,
+  publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+  volume    = {21},
+  number    = {1},
+  pages     = {40--47},
+  author    = {Sandro Pinto and Tiago Gomes and Jorge Pereira and Jorge Cabral and Adriano Tavares},
+  title     = {{IIoTEED}: An Enhanced,  Trusted Execution Environment for Industrial {IoT} Edge Devices},
+  journal   = {{IEEE} Internet Computing}
+}
+
+@article{emb9,
+  doi       = {10.1007/s10586-017-0833-4},
+  url       = {https://doi.org/10.1007/s10586-017-0833-4},
+  year      = {2017},
+  month     = mar,
+  publisher = {Springer Science and Business Media {LLC}},
+  volume    = {20},
+  number    = {2},
+  pages     = {1075--1087},
+  author    = {Rui Chang and Liehui Jiang and Wenzhi Chen and Yang Xiang and Yuxia Cheng and Abdulhameed Alelaiwi},
+  title     = {{MIPE}: a practical memory integrity protection method in a trusted execution environment},
+  journal   = {Cluster Computing}
+}
+
+@incollection{emb10,
+  doi       = {10.1007/978-3-319-66332-6_12},
+  url       = {https://doi.org/10.1007/978-3-319-66332-6_12},
+  year      = {2017},
+  publisher = {Springer International Publishing},
+  pages     = {259--284},
+  author    = {Thomas Nyman and Jan-Erik Ekberg and Lucas Davi and N. Asokan},
+  title     = {{CFI} {CaRE}: Hardware-Supported Call and~Return Enforcement for Commercial Microcontrollers},
+  booktitle = {Research in Attacks,  Intrusions,  and Defenses}
+}
+
+@inproceedings{emb11,
+  doi       = {10.1145/2666141.2666145},
+  url       = {https://doi.org/10.1145/2666141.2666145},
+  year      = {2014},
+  publisher = {{ACM} Press},
+  author    = {Shijun Zhao and Qianying Zhang and Guangyao Hu and Yu Qin and Dengguo Feng},
+  title     = {Providing Root of Trust for {ARM} {TrustZone} using On-Chip {SRAM}},
+  booktitle = {Proceedings of the 4th International Workshop on Trustworthy Embedded Devices - {TrustED} {\textquotesingle}14}
+}
+
+@inproceedings{survey1,
+  author    = {Zhang, Fengwei and Zhang, Hongwei},
+  title     = {SoK: A Study of Using Hardware-Assisted Isolated Execution Environments for Security},
+  year      = {2016},
+  isbn      = {9781450347693},
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  url       = {https://doi.org/10.1145/2948618.2948621},
+  doi       = {10.1145/2948618.2948621},
+  abstract  = {Hardware-assisted Isolated Execution Environments (HIEEs) have been widely adopted to build effective and efficient defensive tools for securing systems. Hardware vendors have introduced a variety of HIEEs including system management mode, Intel management engine, ARM TrustZone, and Intel software guard extensions. This SoK paper presents a comprehensive study of existing HIEEs and compares their features from the security perspective. Additionally, we explore both defensive and offensive use scenarios of HIEEs and discuss the attacks against HIEE-based systems. Overall, this paper aims to give an essential checkpoint of the state-of-the-art systems that use HIEEs for trustworthy computing.},
+  booktitle = {Proceedings of the Hardware and Architectural Support for Security and Privacy 2016},
+  articleno = {3},
+  numpages  = {8},
+  keywords  = {security, Isolated execution environments, hardware},
+  location  = {Seoul, Republic of Korea},
+  series    = {HASP 2016}
+}
+@inproceedings{survey2,
+  author    = {Sabt, Mohamed and Achemlal, Mohammed and Bouabdallah, Abdelmadjid},
+  booktitle = {2015 IEEE Trustcom/BigDataSE/ISPA},
+  title     = {Trusted Execution Environment: What It is, and What It is Not},
+  year      = {2015},
+  volume    = {1},
+  number    = {},
+  pages     = {57-64},
+  doi       = {10.1109/Trustcom.2015.357}
+}
+
+@article{survey3,
+  doi       = {10.1109/jproc.2014.2332007},
+  url       = {https://doi.org/10.1109/jproc.2014.2332007},
+  year      = {2014},
+  month     = aug,
+  publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+  volume    = {102},
+  number    = {8},
+  pages     = {1189--1206},
+  author    = {N. Asokan and Jan-Erik Ekberg and Kari Kostiainen and Anand Rajan and Carlos Rozas and Ahmad-Reza Sadeghi and Steffen Schulz and Christian Wachsmann},
+  title     = {Mobile Trusted Computing},
+  journal   = {Proceedings of the {IEEE}}
+}
+
+@article{survey4,
+  doi       = {10.1145/3291047},
+  url       = {https://doi.org/10.1145/3291047},
+  year      = {2019},
+  month     = feb,
+  publisher = {Association for Computing Machinery ({ACM})},
+  volume    = {51},
+  number    = {6},
+  pages     = {1--36},
+  author    = {Sandro Pinto and Nuno Santos},
+  title     = {Demystifying Arm {TrustZone}},
+  journal   = {{ACM} Computing Surveys}
+}
+
+@article{survey5,
+  author  = {Asokan, N. and Ekberg, Jan-Erik and Kostiainen, Kari and Rajan, Anand and Rozas, Carlos and Sadeghi, Ahmad-Reza and Schulz, Steffen and Wachsmann, Christian},
+  journal = {Proceedings of the IEEE},
+  title   = {Mobile Trusted Computing},
+  year    = {2014},
+  volume  = {102},
+  number  = {8},
+  pages   = {1189-1206},
+  doi     = {10.1109/JPROC.2014.2332007}
+}

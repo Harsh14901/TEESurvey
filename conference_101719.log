@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.3.31)  22 MAY 2021 01:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.3.31)  22 MAY 2021 03:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -405,8 +405,12 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 ] [2]
+Underfull \hbox (badness 2680) in paragraph at lines 230--231
+[]\OT1/ptm/m/n/10 [[]] The re-search presents the im-ple-men-ta-tion of a
+ []
+
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 246.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 Underfull \hbox (badness 10000) in paragraph at lines 262--262
@@ -418,16 +422,36 @@ Underfull \hbox (badness 4479) in paragraph at lines 363--364
 []\OT1/ptm/b/n/10 Limitations: \OT1/ptm/m/n/10 Since smart-phone boot-times can be
  []
 
-[5] [6] [7] [8]
+[5]
+Underfull \hbox (badness 1565) in paragraph at lines 476--477
+\OT1/ptm/m/n/10 pro-cess for the non-secure world VM is rel-a-tively
+ []
+
+[6] [7] [8]
 Underfull \hbox (badness 10000) in paragraph at lines 610--610
  \OT1/ptm/m/it/10 F. Trusted Ex-e-cu-tion Environment-Based Au-then-ti-ca-tion
  []
 
+
+Underfull \hbox (badness 1735) in paragraph at lines 621--623
+\OT1/ptm/m/n/10 junc-tion with a se-lectable Au-then-ti-cated En-cryp-tion
+ []
+
 [9] (/home/harsh/Desktop/IITD/SEM4/COD310/Survey/conference_101719.bbl
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 8.
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 12.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-))
+)
+Underfull \hbox (badness 3646) in paragraph at lines 42--48
+[]\OT1/ptm/m/n/8 Ranjbar A. Bal-isane and An-drew Mar-tin.  Trusted ex-e-cu-tion
+ []
+
+[10]
+Underfull \hbox (badness 3148) in paragraph at lines 97--104
+\OT1/ptm/m/n/8 pro-tec-tion method in a trusted ex-e-cu-tion en-vi-ron-ment.  \OT1/ptm/m/it/8 Clus-
+ []
+
+[11])
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -440,28 +464,28 @@ Before submitting the final camera ready copy, remember to:
  process uses the appropriate paper size.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 715.
-[10]
+[12]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 715.
  (/home/harsh/Desktop/IITD/SEM4/COD310/Survey/conference_101719.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 715.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 715.
 Package rerunfilecheck Info: File `conference_101719.out' has not changed.
-(rerunfilecheck)             Checksum: B530CB9EEC9FD86FC659163CACEECD2D;8495.
+(rerunfilecheck)             Checksum: 0ABCE3DB38789A5E4D282B0CCBAE92D6;8495.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 715.
  ) 
 Here is how much of TeX's memory you used:
- 7956 strings out of 483107
- 120374 string characters out of 5964630
- 386941 words of memory out of 5000000
- 22742 multiletter control sequences out of 15000+600000
- 569909 words of font info for 98 fonts, out of 8000000 for 9000
+ 8084 strings out of 483107
+ 121552 string characters out of 5964630
+ 396688 words of memory out of 5000000
+ 22807 multiletter control sequences out of 15000+600000
+ 570242 words of font info for 99 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 34i,8n,37p,865b,414s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /home/harsh/Desktop/IITD/SEM4/COD310/Survey/conference_101719.pdf (10 pages, 149882 bytes).
+ 34i,8n,37p,865b,445s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on /home/harsh/Desktop/IITD/SEM4/COD310/Survey/conference_101719.pdf (12 pages, 182133 bytes).
 PDF statistics:
- 439 PDF objects out of 1000 (max. 8388607)
- 414 compressed objects within 5 object streams
- 96 named destinations out of 1000 (max. 500000)
+ 668 PDF objects out of 1000 (max. 8388607)
+ 638 compressed objects within 7 object streams
+ 159 named destinations out of 1000 (max. 500000)
  609 words of extra memory for PDF output out of 10000 (max. 10000000)
 

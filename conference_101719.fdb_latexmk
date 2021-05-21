@@ -1,15 +1,15 @@
 # Fdb version 3
-["bibtex conference_101719"] 1621627036 "conference_101719.aux" "conference_101719.bbl" "conference_101719" 1621627127
+["bibtex conference_101719"] 1621632765 "conference_101719.aux" "conference_101719.bbl" "conference_101719" 1621632766
   "/usr/share/texlive/texmf-dist/bibtex/bst/urlbst/plainurl.bst" 1562101090 33034 6f80d55ce824a32ed5562a5220ff287a ""
-  "citations.bib" 1621627035 10458 ed7ed739b7b02e987e6668938139d998 ""
-  "conference_101719.aux" 1621627127 14609 b0d77df021f668eb30863528415a4238 "pdflatex"
+  "citations.bib" 1621632765 45270 c49ec71d4fcf72be2febde37945fe574 ""
+  "conference_101719.aux" 1621632766 16984 82a76c4495799041303fbe3f5aa7228f "pdflatex"
   (generated)
   "conference_101719.blg"
   "conference_101719.bbl"
-["pdflatex"] 1621627126 "/home/harsh/Desktop/IITD/SEM4/COD310/Survey/conference_101719.tex" "/home/harsh/Desktop/IITD/SEM4/COD310/Survey/conference_101719.pdf" "conference_101719" 1621627127
+["pdflatex"] 1621632765 "/home/harsh/Desktop/IITD/SEM4/COD310/Survey/conference_101719.tex" "/home/harsh/Desktop/IITD/SEM4/COD310/Survey/conference_101719.pdf" "conference_101719" 1621632766
   "/etc/texmf/web2c/texmf.cnf" 1614826758 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/harsh/Desktop/IITD/SEM4/COD310/Survey/conference_101719.aux" 1621627127 14609 b0d77df021f668eb30863528415a4238 ""
-  "/home/harsh/Desktop/IITD/SEM4/COD310/Survey/conference_101719.tex" 1621627126 57804 5a9e4e8eee0fea81cb70c9813b2dfdf4 ""
+  "/home/harsh/Desktop/IITD/SEM4/COD310/Survey/conference_101719.aux" 1621632766 16984 82a76c4495799041303fbe3f5aa7228f ""
+  "/home/harsh/Desktop/IITD/SEM4/COD310/Survey/conference_101719.tex" 1621632584 59135 62d1dbcfa040e866995db5654d7707ac ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1136768653 960 379cc0019370a9e0208a0a3f949f847a ""
@@ -40,6 +40,7 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1248133631 35469 70d41d2b9ea31d5d813066df7c99281c ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1248133631 32716 08e384dc442464e7285e891af9f45947 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb" 1136849748 45758 19968a0990191524e34e1994d4a31cb6 ""
@@ -113,14 +114,14 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1617206199 165012 f177baa1c39a3ebd62c3096a43521a0d ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1617206217 4877422 f129898f44926ecff95f0f5719c499a8 ""
   "IEEEtran.cls" 1621605876 281957 5b2e4fa15b0f7eabb840ebf67df4c0f7 ""
-  "conference_101719.aux" 1621627127 14609 b0d77df021f668eb30863528415a4238 "pdflatex"
-  "conference_101719.bbl" 1621627036 3300 65d7c378c6746d8217af85d0f0908f79 "bibtex conference_101719"
-  "conference_101719.out" 1621627127 8495 b530cb9eec9fd86fc659163caceecd2d "pdflatex"
-  "conference_101719.tex" 1621627126 57804 5a9e4e8eee0fea81cb70c9813b2dfdf4 ""
+  "conference_101719.aux" 1621632766 16984 82a76c4495799041303fbe3f5aa7228f "pdflatex"
+  "conference_101719.bbl" 1621632765 25285 f74424e87b4888203f05ac2bf5bd6f93 "bibtex conference_101719"
+  "conference_101719.out" 1621632766 8495 0abce3db38789a5e4d282b0ccbae92d6 "pdflatex"
+  "conference_101719.tex" 1621632584 59135 62d1dbcfa040e866995db5654d7707ac ""
   (generated)
-  "conference_101719.pdf"
-  "conference_101719.aux"
-  "/home/harsh/Desktop/IITD/SEM4/COD310/Survey/conference_101719.pdf"
   "conference_101719.log"
-  "conference_101719.out"
+  "conference_101719.aux"
   "/home/harsh/Desktop/IITD/SEM4/COD310/Survey/conference_101719.log"
+  "conference_101719.out"
+  "/home/harsh/Desktop/IITD/SEM4/COD310/Survey/conference_101719.pdf"
+  "conference_101719.pdf"

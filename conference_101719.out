@@ -23,7 +23,7 @@
 \BOOKMARK [2][-]{subsection.3.11}{Dual Operating System Architecture for Real-Time Embedded Systems}{section.3}% 23
 \BOOKMARK [2][-]{subsection.3.12}{Dual-OS Infrastructure for Mixed-Criticality Systems on ARMv8 Platforms}{section.3}% 24
 \BOOKMARK [2][-]{subsection.3.13}{Affordable Separation on Embedded Platforms}{section.3}% 25
-\BOOKMARK [2][-]{subsection.3.14}{SPACE AND TIME PARTITIONING WITH HARDWARE SUPPORT FOR SPACE APPLICATIONS}{section.3}% 26
+\BOOKMARK [2][-]{subsection.3.14}{Space and time partitioning with hardware support for space applications}{section.3}% 26
 \BOOKMARK [1][-]{section.4}{OS and Kernel security}{}% 27
 \BOOKMARK [2][-]{subsection.4.1}{Hypervision Across Worlds: Real-time Kernel Protection from the ARM TrustZone Secure World}{section.4}% 28
 \BOOKMARK [2][-]{subsection.4.2}{SPROBES: Enforcing Kernel Code Integrity on the TrustZone Architecture}{section.4}% 29
