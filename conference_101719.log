@@ -1,33 +1,33 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.3.31)  22 MAY 2021 03:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.5.22)  22 MAY 2021 10:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/harsh/Desktop/IITD/SEM4/COD310/Survey/conference_101719.tex
-(/home/harsh/Desktop/IITD/SEM4/COD310/Survey/conference_101719.tex
-LaTeX2e <2020-02-02> patch level 2
-L3 programming layer <2020-02-14> (/home/harsh/Desktop/IITD/SEM4/COD310/Survey/IEEEtran.cls
+**/home/sp/Desktop/COP_sim/COD/TEESurvey/conference_101719.tex
+(/home/sp/Desktop/COP_sim/COD/TEESurvey/conference_101719.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-12-03> xparse <2020-03-03> (/home/sp/Desktop/COP_sim/COD/TEESurvey/IEEEtran.cls
 Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
 -- See the "IEEEtran_HOWTO" manual for usage information.
 -- http://www.michaelshell.org/tex/ieeetran/
-\@IEEEtrantmpdimenA=\dimen134
-\@IEEEtrantmpdimenB=\dimen135
-\@IEEEtrantmpdimenC=\dimen136
-\@IEEEtrantmpcountA=\count167
-\@IEEEtrantmpcountB=\count168
-\@IEEEtrantmpcountC=\count169
-\@IEEEtrantmptoksA=\toks14
+\@IEEEtrantmpdimenA=\dimen138
+\@IEEEtrantmpdimenB=\dimen139
+\@IEEEtrantmpdimenC=\dimen140
+\@IEEEtrantmpcountA=\count177
+\@IEEEtrantmpcountB=\count178
+\@IEEEtrantmpcountC=\count179
+\@IEEEtrantmptoksA=\toks15
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 503.
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+(/usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 -- Using 8.5in x 11in (letter) paper.
 -- Using PDF output.
-\@IEEEnormalsizeunitybaselineskip=\dimen137
+\@IEEEnormalsizeunitybaselineskip=\dimen141
 -- This is a 10 point document.
-\CLASSINFOnormalsizebaselineskip=\dimen138
-\CLASSINFOnormalsizeunitybaselineskip=\dimen139
-\IEEEnormaljot=\dimen140
+\CLASSINFOnormalsizebaselineskip=\dimen142
+\CLASSINFOnormalsizeunitybaselineskip=\dimen143
+\IEEEnormaljot=\dimen144
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
@@ -68,139 +68,139 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
-\IEEEquantizedlength=\dimen141
-\IEEEquantizedlengthdiff=\dimen142
-\IEEEquantizedtextheightdiff=\dimen143
-\IEEEilabelindentA=\dimen144
-\IEEEilabelindentB=\dimen145
-\IEEEilabelindent=\dimen146
-\IEEEelabelindent=\dimen147
-\IEEEdlabelindent=\dimen148
-\IEEElabelindent=\dimen149
-\IEEEiednormlabelsep=\dimen150
-\IEEEiedmathlabelsep=\dimen151
+\IEEEquantizedlength=\dimen145
+\IEEEquantizedlengthdiff=\dimen146
+\IEEEquantizedtextheightdiff=\dimen147
+\IEEEilabelindentA=\dimen148
+\IEEEilabelindentB=\dimen149
+\IEEEilabelindent=\dimen150
+\IEEEelabelindent=\dimen151
+\IEEEdlabelindent=\dimen152
+\IEEElabelindent=\dimen153
+\IEEEiednormlabelsep=\dimen154
+\IEEEiedmathlabelsep=\dimen155
 \IEEEiedtopsep=\skip47
-\c@section=\count170
-\c@subsection=\count171
-\c@subsubsection=\count172
-\c@paragraph=\count173
-\c@IEEEsubequation=\count174
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@IEEEsubequation=\count184
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
-\c@figure=\count175
-\c@table=\count176
-\@IEEEeqnnumcols=\count177
-\@IEEEeqncolcnt=\count178
-\@IEEEsubeqnnumrollback=\count179
-\@IEEEquantizeheightA=\dimen152
-\@IEEEquantizeheightB=\dimen153
-\@IEEEquantizeheightC=\dimen154
-\@IEEEquantizeprevdepth=\dimen155
-\@IEEEquantizemultiple=\count180
-\@IEEEquantizeboxA=\box45
-\@IEEEtmpitemindent=\dimen156
-\IEEEPARstartletwidth=\dimen157
-\c@IEEEbiography=\count181
-\@IEEEtranrubishbin=\box46
+\c@figure=\count185
+\c@table=\count186
+\@IEEEeqnnumcols=\count187
+\@IEEEeqncolcnt=\count188
+\@IEEEsubeqnnumrollback=\count189
+\@IEEEquantizeheightA=\dimen156
+\@IEEEquantizeheightB=\dimen157
+\@IEEEquantizeheightC=\dimen158
+\@IEEEquantizeprevdepth=\dimen159
+\@IEEEquantizemultiple=\count190
+\@IEEEquantizeboxA=\box47
+\@IEEEtmpitemindent=\dimen160
+\IEEEPARstartletwidth=\dimen161
+\c@IEEEbiography=\count191
+\@IEEEtranrubishbin=\box48
 )
 ** ATTENTION: Overriding command lockouts (line 2).
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2020/01/20 v2.17e AMS math features
+(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
 \@mathmargin=\skip50
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
- (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+ (/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks15
-\ex@=\dimen158
-)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+\@emptytoks=\toks16
+\ex@=\dimen162
+)) (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen159
-) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+\pmbraise@=\dimen163
+) (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count182
-LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count183
-\leftroot@=\count184
-LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count185
-\DOTSCASE@=\count186
-LaTeX Info: Redefining \ldots on input line 486.
-LaTeX Info: Redefining \dots on input line 489.
-LaTeX Info: Redefining \cdots on input line 610.
-\Mathstrutbox@=\box47
-\strutbox@=\box48
-\big@size=\dimen160
-LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count187
-\c@MaxMatrixCols=\count188
+\inf@bad=\count192
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count193
+\leftroot@=\count194
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count195
+\DOTSCASE@=\count196
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box49
+\strutbox@=\box50
+\big@size=\dimen164
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count197
+\c@MaxMatrixCols=\count198
 \dotsspace@=\muskip16
-\c@parentequation=\count189
-\dspbrk@lvl=\count190
-\tag@help=\toks16
-\row@=\count191
-\column@=\count192
-\maxfields@=\count193
-\andhelp@=\toks17
-\eqnshift@=\dimen161
-\alignsep@=\dimen162
-\tagshift@=\dimen163
-\tagwidth@=\dimen164
-\totwidth@=\dimen165
-\lineht@=\dimen166
-\@envbody=\toks18
+\c@parentequation=\count199
+\dspbrk@lvl=\count266
+\tag@help=\toks17
+\row@=\count267
+\column@=\count268
+\maxfields@=\count269
+\andhelp@=\toks18
+\eqnshift@=\dimen165
+\alignsep@=\dimen166
+\tagshift@=\dimen167
+\tagwidth@=\dimen168
+\totwidth@=\dimen169
+\lineht@=\dimen170
+\@envbody=\toks19
 \multlinegap=\skip51
 \multlinetaggap=\skip52
-\mathdisplay@stack=\toks19
-LaTeX Info: Redefining \[ on input line 2859.
-LaTeX Info: Redefining \] on input line 2860.
-) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+ (/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty
+)) (/usr/share/texmf-dist/tex/latex/algorithms/algorithmic.sty
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
- (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+ (/usr/share/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+) (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks20
+\KV@toks@=\toks21
 )
-\c@ALC@unique=\count194
-\c@ALC@line=\count195
-\c@ALC@rem=\count196
-\c@ALC@depth=\count197
+\c@ALC@unique=\count270
+\c@ALC@line=\count271
+\c@ALC@rem=\count272
+\c@ALC@depth=\count273
 \ALC@tlm=\skip53
 \algorithmicindent=\skip54
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
- (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
- (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+) (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
- (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+ (/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen167
-\Gin@req@width=\dimen168
-) (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+\Gin@req@height=\dimen171
+\Gin@req@width=\dimen172
+) (/usr/share/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+) (/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
- (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -213,245 +213,1737 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
- (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
-) (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2019/11/07 v1.0c TeX engine tests
-) (/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
- (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+) (/usr/share/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+ (/usr/share/texmf-dist/tex/latex/tools/array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen173
+\ar@mcellbox=\box51
+\extrarowheight=\dimen174
+\NC@list=\toks22
+\extratabsurround=\skip55
+\backup@length=\skip56
+\ar@cellbox=\box52
+)
+\TX@col@width=\dimen175
+\TX@old@table=\dimen176
+\TX@old@col=\dimen177
+\TX@target=\dimen178
+\TX@delta=\dimen179
+\TX@cols=\count274
+\TX@ftn=\toks23
+) (/usr/share/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+ (/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+ (/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks24
+\XKV@tempa@toks=\toks25
+)
+\XKV@depth=\count275
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/usr/share/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (/usr/share/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+ (/usr/share/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box53
+)
+\tc@llx=\dimen180
+\tc@lly=\dimen181
+\tc@urx=\dimen182
+\tc@ury=\dimen183
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+ (/usr/share/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen184
+\adjbox@Height=\dimen185
+\adjbox@Depth=\dimen186
+\adjbox@Totalheight=\dimen187
+\adjbox@pwidth=\dimen188
+\adjbox@pheight=\dimen189
+\adjbox@pdepth=\dimen190
+\adjbox@ptotalheight=\dimen191
+ (/usr/share/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count276
+) (/usr/share/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box54
+\sift@deathcycles=\count277
+\@vwid@loff=\dimen192
+\@vwid@roff=\dimen193
+)) (/usr/share/texmf-dist/tex/latex/siunitx/siunitx.sty (/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-12-03 L3 programming layer (loader) 
+ (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count278
+\l__pdf_internal_box=\box55
+)) (/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2020-10-27 L3 Experimental document command parser
+ (/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex))
+Package: siunitx 2020/02/25 v2.8b A comprehensive (SI) units package
+ (/usr/share/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2020-10-27 LaTeX2e option processing using LaTeX3 keys
+)
+\l__siunitx_tmp_box=\box56
+\l__siunitx_tmp_dim=\dimen194
+\l__siunitx_tmp_int=\count279
+\l__siunitx_number_mantissa_length_int=\count280
+\l__siunitx_number_uncert_length_int=\count281
+\l__siunitx_round_int=\count282
+\l__siunitx_process_decimal_int=\count283
+\l__siunitx_process_uncertainty_int=\count284
+\l__siunitx_process_fixed_int=\count285
+\l__siunitx_process_integer_min_int=\count286
+\l__siunitx_process_precision_int=\count287
+\l__siunitx_group_min_int=\count288
+\l__siunitx_angle_marker_box=\box57
+\l__siunitx_angle_unit_box=\box58
+\l__siunitx_angle_marker_dim=\dimen195
+\l__siunitx_angle_unit_dim=\dimen196
+\l__siunitx_unit_int=\count289
+\l__siunitx_unit_denominator_int=\count290
+\l__siunitx_unit_numerator_int=\count291
+\l__siunitx_unit_prefix_int=\count292
+\l__siunitx_unit_prefix_base_int=\count293
+\l__siunitx_unit_prefix_gram_int=\count294
+\l__siunitx_number_product_int=\count295
+\c__siunitx_one_fill_skip=\skip57
+\l__siunitx_table_unit_align_skip=\skip58
+\l__siunitx_table_exponent_dim=\dimen197
+\l__siunitx_table_integer_dim=\dimen198
+\l__siunitx_table_mantissa_dim=\dimen199
+\l__siunitx_table_marker_dim=\dimen256
+\l__siunitx_table_result_dim=\dimen257
+\l__siunitx_table_uncert_dim=\dimen258
+\l__siunitx_table_fill_pre_dim=\dimen259
+\l__siunitx_table_fill_post_dim=\dimen260
+\l__siunitx_table_fill_mid_dim=\dimen261
+\l__siunitx_table_pre_box=\box59
+\l__siunitx_table_post_box=\box60
+\l__siunitx_table_mantissa_box=\box61
+\l__siunitx_table_result_box=\box62
+\l__siunitx_table_number_align_skip=\skip59
+\l__siunitx_table_text_align_skip=\skip60
+ (/usr/share/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2020-08-03 v1.12c Easy translation of strings in LaTeX
+)) (/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+ (/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+) (/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+) (/usr/share/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+) (/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+) (/usr/share/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+) (/usr/share/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+) (/usr/share/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+) (/usr/share/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-) (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+) (/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
-\@linkdim=\dimen169
-\Hy@linkcounter=\count198
-\Hy@pagecounter=\count199
- (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+\@linkdim=\dimen262
+\Hy@linkcounter=\count296
+\Hy@pagecounter=\count297
+ (/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+) (/usr/share/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-) (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+) (/usr/share/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count266
-\pdfmajorversion=\count267
-Package hyperref Info: Option `colorlinks' set `true' on input line 4421.
-Package hyperref Info: Hyper figures OFF on input line 4547.
-Package hyperref Info: Link nesting OFF on input line 4552.
-Package hyperref Info: Hyper index ON on input line 4555.
-Package hyperref Info: Plain pages OFF on input line 4562.
-Package hyperref Info: Backreferencing OFF on input line 4567.
+\Hy@SavedSpaceFactor=\count298
+Package hyperref Info: Option `colorlinks' set `true' on input line 4338.
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4800.
-\c@Hy@tempcnt=\count268
- (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count299
+ (/usr/share/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5159.
-\XeTeXLinkMargin=\dimen170
- (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen263
+ (/usr/share/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+ (/usr/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count269
-\Field@Width=\dimen171
-\Fld@charsize=\dimen172
-Package hyperref Info: Hyper figures OFF on input line 6430.
-Package hyperref Info: Link nesting OFF on input line 6435.
-Package hyperref Info: Hyper index ON on input line 6438.
-Package hyperref Info: backreferencing OFF on input line 6445.
-Package hyperref Info: Link coloring ON on input line 6448.
-Package hyperref Info: Link coloring with OCG OFF on input line 6455.
-Package hyperref Info: PDF/A mode OFF on input line 6460.
-LaTeX Info: Redefining \ref on input line 6500.
-LaTeX Info: Redefining \pageref on input line 6504.
- (/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
-Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+\Fld@menulength=\count300
+\Field@Width=\dimen264
+\Fld@charsize=\dimen265
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring ON on input line 6365.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+ (/usr/share/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi package
+with kernel methods
 )
-\Hy@abspage=\count270
-\c@Item=\count271
-\c@Hfootnote=\count272
+\Hy@abspage=\count301
+\c@Item=\count302
+\c@Hfootnote=\count303
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
- (/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
-Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
-Package atveryend Info: \enddocument detected (standard20110627).
+ (/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+ (/usr/share/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery package
+with kernel methods
 )
-\Fld@listcount=\count273
-\c@bookmark@seq@number=\count274
- (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+\Fld@listcount=\count304
+\c@bookmark@seq@number=\count305
+ (/usr/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
- (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+ (/usr/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
 )
-\Hy@SectionHShift=\skip55
-) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count275
-\l__pdf_internal_box=\box49
-) (/home/harsh/Desktop/IITD/SEM4/COD310/Survey/conference_101719.aux)
-\openout1 = `conference_101719.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
+\Hy@SectionHShift=\skip61
+) (/home/sp/Desktop/COP_sim/COD/TEESurvey/conference_101719.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
 
 -- Lines per column: 56 (exact).
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count276
-\scratchdimen=\dimen173
-\scratchbox=\box50
-\nofMPsegments=\count277
-\nofMParguments=\count278
-\everyMPshowfont=\toks21
-\MPscratchCnt=\count279
-\MPscratchDim=\dimen174
-\MPnumerator=\count280
-\makeMPintoPDFobject=\count281
-\everyMPtoPDFconversion=\toks22
-) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+\scratchcounter=\count306
+\scratchdimen=\dimen266
+\scratchbox=\box63
+\nofMPsegments=\count307
+\nofMParguments=\count308
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count309
+\MPscratchDim=\dimen267
+\MPnumerator=\count310
+\makeMPintoPDFobject=\count311
+\everyMPtoPDFconversion=\toks27
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+ (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-))
-\AtBeginShipoutBox=\box51
-Package hyperref Info: Link coloring ON on input line 25.
- (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+)) (/usr/share/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
+) (/usr/share/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+Package hyperref Info: Link coloring ON on input line 32.
+ (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
- (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+ (/usr/share/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+) (/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count282
+\c@section@level=\count312
 )
-LaTeX Info: Redefining \ref on input line 25.
-LaTeX Info: Redefining \pageref on input line 25.
-LaTeX Info: Redefining \nameref on input line 25.
- (/home/harsh/Desktop/IITD/SEM4/COD310/Survey/conference_101719.out) (/home/harsh/Desktop/IITD/SEM4/COD310/Survey/conference_101719.out)
+LaTeX Info: Redefining \ref on input line 32.
+LaTeX Info: Redefining \pageref on input line 32.
+LaTeX Info: Redefining \nameref on input line 32.
+ (/home/sp/Desktop/COP_sim/COD/TEESurvey/conference_101719.out) (/home/sp/Desktop/COP_sim/COD/TEESurvey/conference_101719.out)
 \@outlinefile=\write3
-\openout3 = `conference_101719.out'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--120
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--120
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 121--126
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
-
- []
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 131.
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+LaTeX Font Info:    Trying to load font information for U+msa on input line 32.
+ (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 131.
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+LaTeX Font Info:    Trying to load font information for U+msb on input line 32.
+ (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+)
+Underfull \hbox (badness 10000) in paragraph at lines 120--127
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--127
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--133
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+
+ []
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ] [2]
-Underfull \hbox (badness 2680) in paragraph at lines 230--231
+Underfull \hbox (badness 2680) in paragraph at lines 237--238
 []\OT1/ptm/m/n/10 [[]] The re-search presents the im-ple-men-ta-tion of a
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 246.
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 253.
+(/usr/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 262--262
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
  \OT1/ptm/m/it/10 E. Rec-on-cil-ing Se-cu-rity with Vir-tu-al-iza-tion: A Dual-
  []
 
 [3] [4]
-Underfull \hbox (badness 4479) in paragraph at lines 363--364
+Underfull \hbox (badness 4479) in paragraph at lines 370--371
 []\OT1/ptm/b/n/10 Limitations: \OT1/ptm/m/n/10 Since smart-phone boot-times can be
  []
 
 [5]
-Underfull \hbox (badness 1565) in paragraph at lines 476--477
+Underfull \hbox (badness 1565) in paragraph at lines 483--484
 \OT1/ptm/m/n/10 pro-cess for the non-secure world VM is rel-a-tively
  []
 
 [6] [7] [8]
-Underfull \hbox (badness 10000) in paragraph at lines 610--610
+Underfull \hbox (badness 10000) in paragraph at lines 617--617
  \OT1/ptm/m/it/10 F. Trusted Ex-e-cu-tion Environment-Based Au-then-ti-ca-tion
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 621--623
+Underfull \hbox (badness 1735) in paragraph at lines 628--630
 \OT1/ptm/m/n/10 junc-tion with a se-lectable Au-then-ti-cated En-cryp-tion
  []
 
-[9] (/home/harsh/Desktop/IITD/SEM4/COD310/Survey/conference_101719.bbl
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 724--724
+[]|\OT1/ptm/m/n/10 Preliminary
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 724--724
+\OT1/ptm/m/n/10 Study of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 724--724
+\OT1/ptm/m/n/10 Trusted
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 724--724
+\OT1/ptm/m/n/10 Ex-e-cu-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 724--724
+\OT1/ptm/m/n/10 En-vi-ron-ments
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 724--724
+\OT1/ptm/m/n/10 neous Edge
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 724--724
+[]|\OT1/ptm/m/n/10 2018 Third
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 724--724
+\OT1/ptm/m/n/10 ACM/IEEE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 724--724
+\OT1/ptm/m/n/10 Sym-po-sium
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 724--724
+\OT1/ptm/m/n/10 on Edge
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 724--725
+[]|\OT1/ptm/m/n/10 9.878 mi-cro
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 724--725
+\OT1/ptm/m/n/10 s (con-text
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 724--725
+\OT1/ptm/m/n/10 switch-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 725--725
+[]|\OT1/ptm/m/n/10 2015 IEEE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 725--725
+\OT1/ptm/m/n/10 Sym-po-sium
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 725--725
+\OT1/ptm/m/n/10 on Se-cu-rity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 725--725
+[]|\OT1/ptm/m/n/10 2015 IEEE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 725--725
+\OT1/ptm/m/n/10 Sym-po-sium
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 725--725
+\OT1/ptm/m/n/10 on Se-cu-rity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 725--726
+[]|\OT1/ptm/m/n/10 1.25 max
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 725--726
+\OT1/ptm/m/n/10 rel-a-tive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 725--726
+\OT1/ptm/m/n/10 run-time in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 725--726
+\OT1/ptm/m/n/10 Hadoop
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]|\OT1/ptm/m/n/10 Shielding
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\OT1/ptm/m/n/10 Ap-pli-ca-tions
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\OT1/ptm/m/n/10 from an
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\OT1/ptm/m/n/10 Un-trusted
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\OT1/ptm/m/n/10 Cloud with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\OT1/ptm/m/n/10 Sym-po-sium
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\OT1/ptm/m/n/10 Sys-tems
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\OT1/ptm/m/n/10 De-sign and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\OT1/ptm/m/n/10 Im-ple-men-ta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--727
+[]|\OT1/ptm/m/n/10 upto 40 %
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--727
+\OT1/ptm/m/n/10 slow-down
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--727
+\OT1/ptm/m/n/10 (mem-ory
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--727
+\OT1/ptm/m/n/10 us-age
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 727--727
+[]|\OT1/ptm/m/n/10 Running
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 727--727
+\OT1/ptm/m/n/10 ZooKeeper
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 727--727
+\OT1/ptm/m/n/10 Co-or-di-na-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 727--727
+\OT1/ptm/m/n/10 Ser-vices in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 727--727
+\OT1/ptm/m/n/10 Un-trusted
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 727--727
+\OT1/ptm/m/n/10 Hot Top-ics
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 727--727
+\OT1/ptm/m/n/10 in Sys-tem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 728--728
+[]|\OT1/ptm/m/n/10 Practical
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 728--728
+\OT1/ptm/m/n/10 Pri-vacy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 728--728
+\OT1/ptm/m/n/10 Pre-serv-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 728--728
+\OT1/ptm/m/n/10 Cloud
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 728--728
+\OT1/ptm/m/n/10 Resource-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 728--728
+\OT1/ptm/m/n/10 Payment for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 728--728
+\OT1/ptm/m/n/10 Con-strained
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 728--728
+[]|\OT1/ptm/m/n/10 Proceedings
+ []
+
+
+Underfull \hbox (badness 5741) in paragraph at lines 728--728
+\OT1/ptm/m/n/10 of the 12th
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 728--728
+\OT1/ptm/m/n/10 In-ter-na-tional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 728--728
+\OT1/ptm/m/n/10 Con-fer-ence
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 728--728
+\OT1/ptm/m/n/10 on Pri-vacy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 728--728
+\OT1/ptm/m/n/10 En-hanc-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 728--728
+\OT1/ptm/m/n/10 Tech-nolo-gies,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 729--729
+[]|\OT1/ptm/m/n/10 TrustICE:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 729--729
+\OT1/ptm/m/n/10 Hardware-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 729--729
+\OT1/ptm/m/n/10 assisted
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 729--729
+\OT1/ptm/m/n/10 Iso-lated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 729--729
+\OT1/ptm/m/n/10 Com-put-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 729--729
+\OT1/ptm/m/n/10 En-vi-ron-ments
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 729--729
+\OT1/ptm/m/n/10 on Mo-bile
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 729--729
+[]|\OT1/ptm/m/n/10 2015 45th
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 729--729
+\OT1/ptm/m/n/10 An-nual
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 729--729
+\OT1/ptm/m/n/10 IEEE/IFIP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 729--729
+\OT1/ptm/m/n/10 In-ter-na-tional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 729--729
+\OT1/ptm/m/n/10 Con-fer-ence
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 729--729
+\OT1/ptm/m/n/10 on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 729--729
+\OT1/ptm/m/n/10 De-pend-able
+ []
+
+
+Underfull \hbox (badness 5274) in paragraph at lines 729--729
+\OT1/ptm/m/n/10 Sys-tems and
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 729--730
+[]|\OT1/ptm/m/n/10 10.6 ms in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 730--730
+[]|\OT1/ptm/m/n/10 Using ARM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 730--730
+\OT1/ptm/m/n/10 Trust-Zone
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 730--730
+\OT1/ptm/m/n/10 to Build
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 730--730
+\OT1/ptm/m/n/10 a Trusted
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 730--730
+\OT1/ptm/m/n/10 Lan-guage
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 730--730
+\OT1/ptm/m/n/10 Run-time
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 730--730
+\OT1/ptm/m/n/10 for Mo-bile
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 730--730
+\OT1/ptm/m/n/10 Pro-ceed-ings
+ []
+
+
+Underfull \hbox (badness 5741) in paragraph at lines 730--730
+\OT1/ptm/m/n/10 of the 19th
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 730--730
+\OT1/ptm/m/n/10 in-ter-na-tional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 730--730
+\OT1/ptm/m/n/10 Ar-chi-tec-tural
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 730--730
+\OT1/ptm/m/n/10 sup-port for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 730--730
+\OT1/ptm/m/n/10 pro-gram-ming
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 730--730
+\OT1/ptm/m/n/10 lan-guages
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 730--731
+\OT1/ptm/m/n/10 in trust-let
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 731--731
+[]|\OT1/ptm/m/n/10 Regulating
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 731--731
+\OT1/ptm/m/n/10 ARM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 731--731
+\OT1/ptm/m/n/10 Trust-Zone
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 731--731
+\OT1/ptm/m/n/10 De-vices in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 731--731
+\OT1/ptm/m/n/10 Re-stricted
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 731--731
+[]|\OT1/ptm/m/n/10 Proceedings
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 731--731
+\OT1/ptm/m/n/10 of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 731--731
+\OT1/ptm/m/n/10 In-ter-na-tional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 731--731
+\OT1/ptm/m/n/10 Con-fer-ence
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 731--731
+\OT1/ptm/m/n/10 on Mo-bile
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 731--731
+\OT1/ptm/m/n/10 Sys-tems,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 731--731
+\OT1/ptm/m/n/10 Ap-pli-ca-tions,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 732--732
+[]|\OT1/ptm/m/n/10 Retrofitting
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 732--732
+\OT1/ptm/m/n/10 the Par-tially
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 732--732
+\OT1/ptm/m/n/10 Priv-i-leged
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 732--732
+\OT1/ptm/m/n/10 Mode for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 732--732
+\OT1/ptm/m/n/10 TEE Com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 732--732
+\OT1/ptm/m/n/10 mu-ni-ca-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 732--732
+\OT1/ptm/m/n/10 Chan-nel
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 732--732
+[]|\OT1/ptm/m/n/10 IEEE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 732--732
+\OT1/ptm/m/n/10 TRANS-AC-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 732--732
+\OT1/ptm/m/n/10 TIONS ON
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 732--732
+\OT1/ptm/m/n/10 DE-PEND-
+ []
+
+
+Underfull \hbox (badness 5316) in paragraph at lines 732--732
+\OT1/ptm/m/n/10 ABLE AND
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 732--732
+\OT1/ptm/m/n/10 SE-CURE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 732--732
+\OT1/ptm/m/n/10 COM-PUT-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 733--733
+[]|\OT1/ptm/m/n/10 Hypervision
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 733--733
+\OT1/ptm/m/n/10 Across
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 733--733
+\OT1/ptm/m/n/10 time Ker-nel
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 733--733
+\OT1/ptm/m/n/10 Pro-tec-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 733--733
+\OT1/ptm/m/n/10 from the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 733--733
+\OT1/ptm/m/n/10 ARM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 733--733
+\OT1/ptm/m/n/10 Trust-Zone
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 733--733
+[]|\OT1/ptm/m/n/10 CCS '14:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 733--733
+\OT1/ptm/m/n/10 Pro-ceed-ings
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 733--733
+\OT1/ptm/m/n/10 of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 733--733
+\OT1/ptm/m/n/10 2014 ACM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 733--733
+\OT1/ptm/m/n/10 SIGSAC
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 733--733
+\OT1/ptm/m/n/10 Con-fer-ence
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 733--733
+\OT1/ptm/m/n/10 and Com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 733--733
+\OT1/ptm/m/n/10 mu-ni-ca-tions
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 733--734
+[]|\OT1/ptm/m/n/10 upto 7 %
+ []
+
+
+Underfull \hbox (badness 5316) in paragraph at lines 734--734
+[]|\OT1/ptm/m/n/10 The ANDIX
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 734--734
+\OT1/ptm/m/n/10 Re-search
+ []
+
+
+Underfull \hbox (badness 4954) in paragraph at lines 734--734
+\OT1/ptm/m/n/10 OS - ARM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 734--734
+\OT1/ptm/m/n/10 Trust-Zone
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 734--734
+\OT1/ptm/m/n/10 Meets
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 734--734
+\OT1/ptm/m/n/10 In-dus-trial
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 734--734
+\OT1/ptm/m/n/10 Con-trol
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 734--734
+\OT1/ptm/m/n/10 Sys-tems
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 734--734
+[]|\OT1/ptm/m/n/10 Proceedings
+ []
+
+
+Underfull \hbox (badness 1681) in paragraph at lines 734--734
+\OT1/ptm/m/n/10 of the IEEE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 734--734
+\OT1/ptm/m/n/10 In-ter-na-tional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 734--734
+\OT1/ptm/m/n/10 Con-fer-ence
+ []
+
+
+Underfull \hbox (badness 3872) in paragraph at lines 734--734
+\OT1/ptm/m/n/10 on In-dus-trial
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 735--735
+[]|\OT1/ptm/m/n/10 TrustOTP:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 735--735
+\OT1/ptm/m/n/10 Trans-form-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 735--735
+\OT1/ptm/m/n/10 Smart-phones
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 735--735
+\OT1/ptm/m/n/10 into Se-cure
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 735--735
+\OT1/ptm/m/n/10 One-Time
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 735--735
+\OT1/ptm/m/n/10 Pass-word
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 736--736
+[]|\OT1/ptm/m/n/10 TrustDump:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 736--736
+\OT1/ptm/m/n/10 Re-li-able
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 736--736
+\OT1/ptm/m/n/10 Mem-ory
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 736--736
+\OT1/ptm/m/n/10 Ac-qui-si-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 736--736
+\OT1/ptm/m/n/10 on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 736--737
+[]|\OT1/ptm/m/n/10 1.56ms to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 736--737
+\OT1/ptm/m/n/10 calc hash
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 736--737
+\OT1/ptm/m/n/10 value for
+ []
+
+
+Underfull \hbox (badness 2393) in paragraph at lines 737--737
+\OT1/ptm/m/n/10 Trusted Data
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 737--737
+[]|\OT1/ptm/m/n/10 Proceedings
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 737--737
+\OT1/ptm/m/n/10 of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 737--737
+\OT1/ptm/m/n/10 In-ter-na-tional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 737--737
+\OT1/ptm/m/n/10 Con-fer-ence
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 737--737
+\OT1/ptm/m/n/10 on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 737--737
+\OT1/ptm/m/n/10 En-gi-neer-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 737--737
+\OT1/ptm/m/n/10 of Com-plex
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 737--737
+\OT1/ptm/m/n/10 Com-puter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 737--738
+[]|\OT1/ptm/m/n/10 upto 30 %
+ []
+
+
+Underfull \hbox (badness 4647) in paragraph at lines 737--738
+\OT1/ptm/m/n/10 over-head for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 737--738
+\OT1/ptm/m/n/10 down-load-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 738--738
+[]|\OT1/ptm/m/n/10 Towards a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 738--738
+\OT1/ptm/m/n/10 TrustZone-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 738--738
+\OT1/ptm/m/n/10 assisted
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 738--738
+\OT1/ptm/m/n/10 Hy-per-vi-sor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 738--738
+\OT1/ptm/m/n/10 Em-bed-ded
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 738--738
+[]|\OT1/ptm/m/n/10 IEEE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 738--738
+\OT1/ptm/m/n/10 Com-put.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 738--738
+\OT1/ptm/m/n/10 Ar-chi-tect.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 739--739
+[]|[]\OT1/ptm/m/n/10 RTZVisor:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 739--739
+\OT1/ptm/m/n/10 A Se-cure
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 739--739
+\OT1/ptm/m/n/10 and Safe
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 739--739
+\OT1/ptm/m/n/10 Real-Time
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 739--739
+[]|\OT1/ptm/m/n/10 Electronics
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 740--740
+[]|\OT1/ptm/m/n/10 LTZVisor:
+ []
+
+
+Underfull \hbox (badness 4726) in paragraph at lines 740--740
+\OT1/ptm/m/n/10 Trust-Zone is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 740--740
+[]|\OT1/ptm/m/n/10 Proceedings
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 740--740
+\OT1/ptm/m/n/10 of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 740--740
+\OT1/ptm/m/n/10 Eu-romi-cro
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 740--740
+\OT1/ptm/m/n/10 Con-fer-ence
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 740--740
+\OT1/ptm/m/n/10 Sys-tems
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 740--740
+\OT1/ptm/m/n/10 (Leib-niz
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 740--740
+\OT1/ptm/m/n/10 In-ter-na-tional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 740--740
+\OT1/ptm/m/n/10 Pro-ceed-ings
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 740--740
+\OT1/ptm/m/n/10 in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 741--741
+[]|\OT1/ptm/m/n/10 Reconciling
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 741--741
+\OT1/ptm/m/n/10 Se-cu-rity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 741--741
+\OT1/ptm/m/n/10 with Vir-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 741--741
+\OT1/ptm/m/n/10 tu-al-iza-tion:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 741--741
+\OT1/ptm/m/n/10 A Dual-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 741--741
+\OT1/ptm/m/n/10 Hypervisor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 741--741
+\OT1/ptm/m/n/10 De-sign
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 741--741
+\OT1/ptm/m/n/10 for ARM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 741--741
+[]|\OT1/ptm/m/n/10 Proceedings
+ []
+
+
+Underfull \hbox (badness 1681) in paragraph at lines 741--741
+\OT1/ptm/m/n/10 of the IEEE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 741--741
+\OT1/ptm/m/n/10 In-ter-na-tional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 741--741
+\OT1/ptm/m/n/10 Con-fer-ence
+ []
+
+
+Underfull \hbox (badness 3872) in paragraph at lines 741--741
+\OT1/ptm/m/n/10 on In-dus-trial
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 742--742
+[]|\OT1/ptm/m/n/10 vTZ:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 742--742
+\OT1/ptm/m/n/10 Vir-tu-al-iz-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 742--742
+\OT1/ptm/m/n/10 ARM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 742--742
+[]|\OT1/ptm/m/n/10 Proceedings
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 742--742
+\OT1/ptm/m/n/10 of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 742--742
+\OT1/ptm/m/n/10 USENIX
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 742--742
+\OT1/ptm/m/n/10 Se-cu-rity
+ []
+
+
+Overfull \hbox (9.24408pt too wide) in paragraph at lines 743--743
+[]|\OT1/ptm/m/n/10 VOSYSmonitor,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 743--743
+\OT1/ptm/m/n/10 a Low
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 743--743
+\OT1/ptm/m/n/10 La-tency
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 743--743
+\OT1/ptm/m/n/10 Mon-i-tor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 743--743
+\OT1/ptm/m/n/10 Layer for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 743--743
+\OT1/ptm/m/n/10 Mixed-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 743--743
+\OT1/ptm/m/n/10 Criticality
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 743--743
+\OT1/ptm/m/n/10 Sys-tems on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 743--743
+[]|\OT1/ptm/m/n/10 Proceedings
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 743--743
+\OT1/ptm/m/n/10 of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 743--743
+\OT1/ptm/m/n/10 Eu-romi-cro
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 743--743
+\OT1/ptm/m/n/10 Con-fer-ence
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 743--743
+\OT1/ptm/m/n/10 Sys-tems
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 743--743
+\OT1/ptm/m/n/10 (Leib-niz
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 743--743
+\OT1/ptm/m/n/10 In-ter-na-tional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 743--743
+\OT1/ptm/m/n/10 Pro-ceed-ings
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 744--744
+[]|\OT1/ptm/m/n/10 Dual
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 744--744
+\OT1/ptm/m/n/10 Op-er-at-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 744--744
+\OT1/ptm/m/n/10 Sys-tem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 744--744
+\OT1/ptm/m/n/10 Ar-chi-tec-ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 744--744
+\OT1/ptm/m/n/10 Em-bed-ded
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 744--744
+[]|\OT1/ptm/m/n/10 Proceedings
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 744--744
+\OT1/ptm/m/n/10 of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 744--744
+\OT1/ptm/m/n/10 In-ter-na-tional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 744--744
+\OT1/ptm/m/n/10 Work-shop
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 744--744
+\OT1/ptm/m/n/10 Sys-tems
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 744--744
+\OT1/ptm/m/n/10 Em-bed-ded
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 744--744
+\OT1/ptm/m/n/10 Real-Time
+ []
+
+
+Underfull \hbox (badness 7099) in paragraph at lines 744--745
+[]|  \OT1/ptm/m/n/10 3ms re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--745
+[]|\OT1/ptm/m/n/10 Dual-OS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--745
+\OT1/ptm/m/n/10 In-fras-truc-ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--745
+\OT1/ptm/m/n/10 for Mixed-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--745
+\OT1/ptm/m/n/10 Criticality
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--745
+\OT1/ptm/m/n/10 Sys-tems
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--745
+\OT1/ptm/m/n/10 on ARMv8
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--745
+[]|\OT1/ptm/m/n/10 ADVCOMP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--745
+\OT1/ptm/m/n/10 2015 :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--745
+\OT1/ptm/m/n/10 The Ninth
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--745
+\OT1/ptm/m/n/10 In-ter-na-tional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--745
+\OT1/ptm/m/n/10 Con-fer-ence
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--745
+\OT1/ptm/m/n/10 En-gi-neer-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--745
+\OT1/ptm/m/n/10 Com-put-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--745
+\OT1/ptm/m/n/10 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--745
+\OT1/ptm/m/n/10 Ap-pli-ca-tions
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 746--746
+[]|\OT1/ptm/m/n/10 Affordable
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 746--746
+\OT1/ptm/m/n/10 Em-bed-ded
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 746--746
+[]|\OT1/ptm/m/n/10 Springer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 746--746
+\OT1/ptm/m/n/10 In-ter-na-tional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 746--747
+[]| \OT1/ptm/m/n/10 10 ms
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 746--747
+\OT1/ptm/m/n/10 for reg-u-lar
+ []
+
+
+Underfull \hbox (badness 7064) in paragraph at lines 746--747
+\OT1/ptm/m/n/10 tasks,  200
+ []
+
+
+Underfull \hbox (badness 3029) in paragraph at lines 746--747
+\OT1/ptm/m/n/10 ms for cold
+ []
+
+
+Underfull \hbox (badness 5260) in paragraph at lines 746--747
+\OT1/ptm/m/n/10 boot load-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 747--747
+[]|\OT1/ptm/m/n/10 SPACE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 747--747
+\OT1/ptm/m/n/10 AND TIME
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 747--747
+\OT1/ptm/m/n/10 PAR-TI-TION-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 747--747
+\OT1/ptm/m/n/10 ING WITH
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 747--747
+\OT1/ptm/m/n/10 HARD-WARE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 747--747
+\OT1/ptm/m/n/10 SUP-PORT
+ []
+
+
+Underfull \hbox (badness 2126) in paragraph at lines 747--747
+\OT1/ptm/m/n/10 FOR SPACE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 747--747
+\OT1/ptm/m/n/10 AP-PLI-CA-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 747--747
+\OT1/ptm/m/n/10 Con-fer-ence,
+ []
+
+(/home/sp/Desktop/COP_sim/COD/TEESurvey/conference_101719.bbl
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+Overfull \vbox (1675.59998pt too high) has occurred while \output is active []
+
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 12.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+ (/usr/share/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 Underfull \hbox (badness 3646) in paragraph at lines 42--48
 []\OT1/ptm/m/n/8 Ranjbar A. Bal-isane and An-drew Mar-tin.  Trusted ex-e-cu-tion
  []
 
-[10]
+
 Underfull \hbox (badness 3148) in paragraph at lines 97--104
 \OT1/ptm/m/n/8 pro-tec-tion method in a trusted ex-e-cu-tion en-vi-ron-ment.  \OT1/ptm/m/it/8 Clus-
  []
 
-[11])
+[11] [12])
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -463,29 +1955,23 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 715.
-[12]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 715.
- (/home/harsh/Desktop/IITD/SEM4/COD310/Survey/conference_101719.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 715.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 715.
+[13] (/home/sp/Desktop/COP_sim/COD/TEESurvey/conference_101719.aux)
 Package rerunfilecheck Info: File `conference_101719.out' has not changed.
 (rerunfilecheck)             Checksum: 0ABCE3DB38789A5E4D282B0CCBAE92D6;8495.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 715.
  ) 
 Here is how much of TeX's memory you used:
- 8084 strings out of 483107
- 121552 string characters out of 5964630
- 396688 words of memory out of 5000000
- 22807 multiletter control sequences out of 15000+600000
- 570242 words of font info for 99 fonts, out of 8000000 for 9000
- 59 hyphenation exceptions out of 8191
- 34i,8n,37p,865b,445s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /home/harsh/Desktop/IITD/SEM4/COD310/Survey/conference_101719.pdf (12 pages, 182133 bytes).
+ 11571 strings out of 479383
+ 207664 string characters out of 5875830
+ 556450 words of memory out of 5000000
+ 28313 multiletter control sequences out of 15000+600000
+ 444307 words of font info for 114 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 66i,14n,73p,860b,851s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on /home/sp/Desktop/COP_sim/COD/TEESurvey/conference_101719.pdf (13 pages, 186947 bytes).
 PDF statistics:
- 668 PDF objects out of 1000 (max. 8388607)
- 638 compressed objects within 7 object streams
- 159 named destinations out of 1000 (max. 500000)
+ 673 PDF objects out of 1000 (max. 8388607)
+ 642 compressed objects within 7 object streams
+ 160 named destinations out of 1000 (max. 500000)
  609 words of extra memory for PDF output out of 10000 (max. 10000000)
 
