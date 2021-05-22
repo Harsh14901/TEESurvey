@@ -11,6 +11,19 @@ Zaheer Ahmad, Lishoy Francis, Tansir Ahmed, Christopher Lobodzinski, Dev
 \newblock \href {https://doi.org/10.1109/uic-atc.2013.76}
   {\path{doi:10.1109/uic-atc.2013.76}}.
 
+\bibitem{tz}
+T.~Alves and D.~Felton.
+\newblock {\em TEE system architecture}, volume~3.
+\newblock [Online], 2004.
+\newblock URL: \url{http://globalplatform.org/specificationsdevice.asp}.
+
+\bibitem{ind2}
+Android.
+\newblock {\em Android Key Store}.
+\newblock Android, 2018.
+\newblock URL:
+  \url{https://developer.android.com/training/articles/keystore.html}.
+
 \bibitem{survey3}
 N.~Asokan, Jan-Erik Ekberg, Kari Kostiainen, Anand Rajan, Carlos Rozas,
   Ahmad-Reza Sadeghi, Steffen Schulz, and Christian Wachsmann.
@@ -272,6 +285,12 @@ Xiaolei Li, Hong Hu, Guangdong Bai, Yaoqi Jia, Zhenkai Liang, and Prateek
 \newblock \href {https://doi.org/10.1109/iceccs.2014.13}
   {\path{doi:10.1109/iceccs.2014.13}}.
 
+\bibitem{ind3}
+Linaro.
+\newblock {\em OP TEE}.
+\newblock OP TEE, 2014.
+\newblock URL: \url{https://wiki.linaro.org/WorkingGroups/Security/OP-TEE}.
+
 \bibitem{emb1}
 He~Liu, Stefan Saroiu, Alec Wolman, and Himanshu Raj.
 \newblock Software abstractions for trusted sensors.
@@ -289,6 +308,11 @@ Renju Liu and Mani Srivastava.
   Press, 2017.
 \newblock \href {https://doi.org/10.1145/3086439.3086443}
   {\path{doi:10.1145/3086439.3086443}}.
+
+\bibitem{arm}
+Arm Ltd.
+\newblock {\em Arm Platform Security Architecture Overview}.
+\newblock Arm Ltd, 2017.
 
 \bibitem{hyper10}
 Pierre Lucas, Kevin Chappuis, M.~Paolino, Nicolas Dagieu, and D.~Raho.
@@ -444,6 +468,13 @@ Mohamed Sabt, Mohammed Achemlal, and Abdelmadjid Bouabdallah.
   2015.
 \newblock \href {https://doi.org/10.1109/Trustcom.2015.357}
   {\path{doi:10.1109/Trustcom.2015.357}}.
+
+\bibitem{ind1}
+Samsung.
+\newblock {\em White Paper: An Overview of Samsung KNOX}.
+\newblock Samsung, 2013.
+\newblock URL:
+  \url{https://docs.samsungknox.com/admin/whitepaper/kpe/samsung-knox.htm}.
 
 \bibitem{mobile6}
 Nuno Santos, Himanshu Raj, Stefan Saroiu, and Alec Wolman.

@@ -1,61 +1,66 @@
-This is BibTeX, Version 0.99d (TeX Live 2020/Arch Linux)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: conference_101719.aux
 The style file: plainurl.bst
-Reallocated glb_str_ptr (elt_size=8) to 20 items from 10.
-Reallocated global_strs (elt_size=20001) to 20 items from 10.
-Reallocated glb_str_end (elt_size=8) to 20 items from 10.
-Reallocated singl_function (elt_size=8) to 100 items from 50.
-Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: citations.bib
+Warning--can't use both volume and number fields in tz
+Warning--can't use both author and editor fields in ind2
 Warning--empty year in misc3
 Warning--empty booktitle in misc9
 Warning--empty year in hyper11
+Warning--can't use both author and editor fields in ind3
+Warning--can't use both author and editor fields in arm
 Warning--empty booktitle in hyper3
 Warning--can't use both volume and number fields in hyper3
 Warning--empty booktitle in hyper2
 Warning--empty booktitle in hyper14
 Warning--empty booktitle in misc6
+Warning--can't use both author and editor fields in ind1
 Warning--empty booktitle in mobile4
-You've used 70 entries,
+You've used 75 entries,
             2882 wiz_defined-function locations,
-            1094 strings with 23321 characters,
-and the built_in function-call counts, 37108 in all, are:
-= -- 3857
-> -- 1712
-< -- 21
-+ -- 647
-- -- 569
-* -- 2394
-:= -- 5285
-add.period$ -- 314
-call.type$ -- 70
-change.case$ -- 492
+            1114 strings with 23696 characters,
+and the built_in function-call counts, 38929 in all, are:
+= -- 4041
+> -- 1758
+< -- 22
++ -- 664
+- -- 581
+* -- 2473
+:= -- 5534
+add.period$ -- 333
+call.type$ -- 75
+change.case$ -- 508
 chr.to.int$ -- 0
-cite$ -- 79
-duplicate$ -- 1101
-empty$ -- 3272
-format.name$ -- 569
-if$ -- 9459
+cite$ -- 89
+duplicate$ -- 1169
+empty$ -- 3478
+format.name$ -- 581
+if$ -- 9959
 int.to.chr$ -- 0
-int.to.str$ -- 70
-missing$ -- 71
-newline$ -- 413
-num.names$ -- 142
-pop$ -- 878
+int.to.str$ -- 75
+missing$ -- 81
+newline$ -- 442
+num.names$ -- 152
+pop$ -- 938
 preamble$ -- 1
-purify$ -- 424
+purify$ -- 440
 quote$ -- 0
-skip$ -- 2392
+skip$ -- 2533
 stack$ -- 0
-substring$ -- 996
-swap$ -- 394
-text.length$ -- 21
+substring$ -- 1021
+swap$ -- 405
+text.length$ -- 22
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 276
-warning$ -- 9
-while$ -- 195
-width$ -- 72
-write$ -- 913
-(There were 9 warnings)
+type$ -- 286
+warning$ -- 14
+while$ -- 205
+width$ -- 77
+write$ -- 972
+(There were 14 warnings)

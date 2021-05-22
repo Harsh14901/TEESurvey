@@ -107,11 +107,11 @@
     platforms. TEE is commonly known as an isolated processing
     environment in which applications can be securely executed
     irrespective of the rest of the system. Although this technology has remained relatively underground since its inception, over the past years, numerous initiatives
-    have significantly advanced the state of the art involving TEE(s). Motivated by this revival of interest, this paper presents an in-depth study of the existing use cases of the Trusted Execution Environments covering domains ranging from industry to academia. Furthermore, we analyze the most relevant weaknesses of existing systems and try to draw a comparison between them.
+    have significantly advanced the state of the art involving TEE(s). Motivated by this revival of interest, this paper presents an in-depth study of the existing use cases of the Trusted Execution Environments covering domains ranging from industry \cite{ind1, ind2, ind3} to academia. Furthermore, we analyze the most relevant weaknesses of existing systems and try to draw a comparison between them.
 \end{abstract}
 
 \begin{IEEEkeywords}
-    TEE, Isloated execution, TrustZone.
+    TEE, Isloated execution, TrustZone \cite{tz}, ARM \cite{arm}.
 \end{IEEEkeywords}
 
 \section{Introduction}
@@ -714,41 +714,51 @@ on these nodes.
     \item \textbf{Advantages:} To protect the key, SeCReT interposes with every switch between user mode and kernel mode, verifying the code’s integrity and the coarse-grained control flow of the process. To minimize the performance overhead, SeCReT’s key-protection mechanism is activated only during the runtime of the process that has permission to access TrustZone
           % \item \textbf{Limitations:}
 \end{itemize}
+\section{Discussion}
+Discussion here
+\begin{table*}[t]
+    \centering
+    \caption{Analysis of the latencies of TEE implementations}
 
-\begin{tabular}{ |p{2cm}||p{2cm}|p{2cm}|  }
-    \hline
-    \multicolumn{3}{|c|}{TEE papers} \\
-    \hline
-    Paper Name& Conference &Comments\\
-    \hline
-    Preliminary Study of Trusted Execution Environments on Heterogeneous Edge Platforms   & 2018 Third ACM/IEEE Symposium on Edge Computing   & 9.878 micro s (context switching time)  \\
-    2015 IEEE Symposium on Security and Privacy &   2015 IEEE Symposium on Security and Privacy  & 1.25 max relative runtime in Hadoop cluster  \\
-    Shielding Applications from an Untrusted Cloud with Haven &11th USENIX Symposium on Operating Systems Design and Implementation. & upto 40 \% slowdown (memory usage dependant) \\
-    Running ZooKeeper Coordination Services in Untrusted Clouds  &10th USENIX conference on Hot Topics in System Dependability & ~ 30 ms \\
-    Practical Privacy Preserving Cloud Resource-Payment for Constrained Clients&   Proceedings of the 12th International Conference on Privacy Enhancing Technologies, ser. PETS’12  & 1 - 50 s\\
-    TrustICE: Hardware-assisted Isolated Computing Environments on Mobile Devices& 2015 45th Annual IEEE/IFIP International Conference on Dependable Systems and Networks  & 10.6 ms including verification of ICE   \\
-    Using ARM TrustZone to Build a Trusted Language Runtime for Mobile Applications& ASPLOS '14: Proceedings of the 19th international conference on Architectural support for programming languages and operating systems  & upto 100 ms in trustlet mothods\\
-    Regulating ARM TrustZone Devices in Restricted Spaces & Proceedings of the International Conference on Mobile Systems, Applications, and Services. & ~2 s for vetting\\
-    Retrofitting the Partially Privileged Mode for TEE Communication Channel Protection & IEEE TRANSACTIONS ON DEPENDABLE AND SECURE COMPUTING 1 & ~ 20-30 micro s comm betn TA, CA\\
-    Hypervision Across Worlds: Real-time Kernel Protection from the ARM TrustZone Secure World & CCS '14: Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications Security & upto 7 \% overhead \\
-    The ANDIX Research OS - ARM TrustZone Meets Industrial Control Systems Security & Proceedings of the IEEE International Conference on Industrial Informatics & 260 ms (17 \% overhead) \\
-    TrustOTP: Transforming Smartphones into Secure One-Time Password Tokens & & upto a factor of 2.5\\
-    TrustDump: Reliable Memory Acquisition on Smartphones && 1.56ms to calc hash value for linux kernel \\
-    DroidVault: A Trusted Data Vault for Android Devices & Proceedings of the International Conference on Engineering of Complex Computer Systems & upto 30 \% overhead for downloading 10K files\\
-    Towards a TrustZone-assisted Hypervisor for Real Time Embedded Systems & IEEE Comput. Architect. Lett. 16 & upto 8\% overhead \\
-    \si{\micro}RTZVisor: A Secure and Safe Real-Time Hypervisor & Electronics 2017 & 180.64 \si{\micro}s avg latency \\
-    LTZVisor: TrustZone is the Key & Proceedings of the Euromicro Conference on Real-Time Systems (Leibniz International Proceedings in Informatics) & 11.31 \si{\micro}s \\
-    Reconciling Security with Virtualization: A Dual-Hypervisor Design for ARM TrustZone & Proceedings of the IEEE International Conference on Industrial Technology. & 20 \si{\micro}s\\
-    vTZ: Virtualizing ARM TrustZone & Proceedings of the USENIX Security Symposium & upto 7\% overhead \\
-    VOSYSmonitor, a Low Latency Monitor Layer for Mixed-Criticality Systems on ARMv8-A &  Proceedings of the Euromicro Conference on Real-Time Systems (Leibniz International Proceedings in Informatics & ~1ms \\
-    Dual Operating System Architecture for Real-Time Embedded Systems & Proceedings of the International Workshop on Operating Systems Platforms for Embedded Real-Time Applications. & ~ 3ms response time \\
-    Dual-OS Infrastructure for Mixed-Criticality Systems on ARMv8 Platforms & ADVCOMP 2015 : The Ninth International Conference on Advanced Engineering Computing and Applications in Sciences & 4 \si{\micro}s for full world switch \\
-    Affordable Separation on Embedded Platforms & Springer International Publishing & ~10 ms for regular tasks, ~200 ms for cold boot loading RTOS\\
-    SPACE AND TIME PARTITIONING WITH HARDWARE SUPPORT FOR SPACE APPLICATIONS & Data Systems in Aerospace Conference, DASIA 2016 & 95.075  \si{\micro}s\\
+    \begin{center}
+        \begin{tabular}{ |p{0.4\textwidth}||p{0.4\textwidth}|p{0.2\textwidth}|  }
+            \hline
+            \multicolumn{3}{|c|}{TEE research}                                                                                                                                                                                                                                                                \\
+            \hline
+            \textbf{Paper Name }                                                                       & \textbf{Conference}                                                                                                                   & \textbf{Latency}                                             \\
+            \hline
+            Preliminary Study of Trusted Execution Environments on Heterogeneous Edge Platforms        & 2018 Third ACM/IEEE Symposium on Edge Computing                                                                                       & 9.878 micro s (context switching time)                       \\ \hline
+            2015 IEEE Symposium on Security and Privacy                                                & 2015 IEEE Symposium on Security and Privacy                                                                                           & 1.25 max relative runtime in Hadoop cluster                  \\ \hline
+            Shielding Applications from an Untrusted Cloud with Haven                                  & 11th USENIX Symposium on Operating Systems Design and Implementation.                                                                 & upto 40 \% slowdown (memory usage dependant)                 \\ \hline
+            Running ZooKeeper Coordination Services in Untrusted Clouds                                & 10th USENIX conference on Hot Topics in System Dependability                                                                          & ~ 30 ms                                                      \\ \hline
+            Practical Privacy Preserving Cloud Resource-Payment for Constrained Clients                & Proceedings of the 12th International Conference on Privacy Enhancing Technologies, ser. PETS’12                                      & 1 - 50 s                                                     \\ \hline
+            TrustICE: Hardware-assisted Isolated Computing Environments on Mobile Devices              & 2015 45th Annual IEEE/IFIP International Conference on Dependable Systems and Networks                                                & 10.6 ms including verification of ICE                        \\ \hline
+            Using ARM TrustZone to Build a Trusted Language Runtime for Mobile Applications            & ASPLOS '14: Proceedings of the 19th international conference on Architectural support for programming languages and operating systems & upto 100 ms in trustlet mothods                              \\ \hline
+            Regulating ARM TrustZone Devices in Restricted Spaces                                      & Proceedings of the International Conference on Mobile Systems, Applications, and Services.                                            & ~2 s for vetting                                             \\ \hline
+            Retrofitting the Partially Privileged Mode for TEE Communication Channel Protection        & IEEE TRANSACTIONS ON DEPENDABLE AND SECURE COMPUTING 1                                                                                & ~ 20-30 micro s comm betn TA, CA                             \\ \hline
+            Hypervision Across Worlds: Real-time Kernel Protection from the ARM TrustZone Secure World & CCS '14: Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications Security                                        & upto 7 \% overhead                                           \\ \hline
+            The ANDIX Research OS - ARM TrustZone Meets Industrial Control Systems Security            & Proceedings of the IEEE International Conference on Industrial Informatics                                                            & 260 ms (17 \% overhead)                                      \\ \hline
+            TrustOTP: Transforming Smartphones into Secure One-Time Password Tokens                    &                                                                                                                                       & upto a factor of 2.5                                         \\ \hline
+            TrustDump: Reliable Memory Acquisition on Smartphones                                      &                                                                                                                                       & 1.56ms to calc hash value for linux kernel                   \\ \hline
+            DroidVault: A Trusted Data Vault for Android Devices                                       & Proceedings of the International Conference on Engineering of Complex Computer Systems                                                & upto 30 \% overhead for downloading 10K files                \\ \hline
+            Towards a TrustZone-assisted Hypervisor for Real Time Embedded Systems                     & IEEE Comput. Architect. Lett. 16                                                                                                      & upto 8\% overhead                                            \\ \hline
+            \si{\micro}RTZVisor: A Secure and Safe Real-Time Hypervisor                                & Electronics 2017                                                                                                                      & 180.64 \si{\micro}s avg latency                              \\ \hline
+            LTZVisor: TrustZone is the Key                                                             & Proceedings of the Euromicro Conference on Real-Time Systems (Leibniz International Proceedings in Informatics)                       & 11.31 \si{\micro}s                                           \\ \hline
+            Reconciling Security with Virtualization: A Dual-Hypervisor Design for ARM TrustZone       & Proceedings of the IEEE International Conference on Industrial Technology.                                                            & 20 \si{\micro}s                                              \\ \hline
+            vTZ: Virtualizing ARM TrustZone                                                            & Proceedings of the USENIX Security Symposium                                                                                          & upto 7\% overhead                                            \\ \hline
+            VOSYSmonitor, a Low Latency Monitor Layer for Mixed-Criticality Systems on ARMv8-A         & Proceedings of the Euromicro Conference on Real-Time Systems (Leibniz International Proceedings in Informatics                        & ~1ms                                                         \\ \hline
+            Dual Operating System Architecture for Real-Time Embedded Systems                          & Proceedings of the International Workshop on Operating Systems Platforms for Embedded Real-Time Applications.                         & ~ 3ms response time                                          \\ \hline
+            Dual-OS Infrastructure for Mixed-Criticality Systems on ARMv8 Platforms                    & ADVCOMP 2015 : The Ninth International Conference on Advanced Engineering Computing and Applications in Sciences                      & 4 \si{\micro}s for full world switch                         \\ \hline
+            Affordable Separation on Embedded Platforms                                                & Springer International Publishing                                                                                                     & ~10 ms for regular tasks, ~200 ms for cold boot loading RTOS \\ \hline
+            SPACE AND TIME PARTITIONING WITH HARDWARE SUPPORT FOR SPACE APPLICATIONS                   & Data Systems in Aerospace Conference, DASIA 2016                                                                                      & 95.075  \si{\micro}s                                         \\ \hline
 
-    \hline
-   \end{tabular}
+            \hline
+        \end{tabular}
 
+    \end{center}
+\end{table*}
+\section{Conclusion}
+Conclusion here!
 \bibliographystyle{plainurl}
 \bibliography{citations}
 
