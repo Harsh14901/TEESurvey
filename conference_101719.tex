@@ -714,8 +714,8 @@ on these nodes.
     \item \textbf{Advantages:} To protect the key, SeCReT interposes with every switch between user mode and kernel mode, verifying the code’s integrity and the coarse-grained control flow of the process. To minimize the performance overhead, SeCReT’s key-protection mechanism is activated only during the runtime of the process that has permission to access TrustZone
           % \item \textbf{Limitations:}
 \end{itemize}
-\section{Discussion}
-Discussion here
+% \section{Discussion}
+% Discussion here
 \begin{table*}[t]
     \centering
     \caption{Analysis of the latencies of TEE implementations}
@@ -758,7 +758,14 @@ Discussion here
     \end{center}
 \end{table*}
 \section{Conclusion}
-Conclusion here!
+This article has presented an overview of TEE technology and its applications in a vast range of fields. 
+TEEs have been in use in the industry for some time we aim to provide a comprehensive understanding of its use-cases. We discussed some popular implemenations and
+use cases and also provided a comparison of the Advantages and Limitations of each implemenation. 
+\\We found that TEEs have most frequently been put to use in mobile OSs, for purposes like authentication and verification.
+Recently it has also found relevance in Cloud Computing Technologies, efficient but secure virtualization, and securing IoT devices, although its use in automotive security
+has been rather limited in comparison. By far, ARM Trustzone has been the architecture of choice for most TEE implementations. 
+\\The most common issues we found in TEE implementations was the that of sharing resources among secure and 
+non-secure worlds, and privacy and vendorlocking concerns in case of uses in Mobile OS. However, we see that there is a lot more scope for usage of TEEs in the future and improving the current implementations. 
 \bibliographystyle{plainurl}
 \bibliography{citations}
 
